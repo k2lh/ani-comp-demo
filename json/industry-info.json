@@ -1,0 +1,789 @@
+{
+"dnbIndustryCode":1374,"industryName":"Health Care Sector","industryDescription":"Companies in this industry provide a wide range of health care and social services through hospitals, doctors' offices, nursing homes, outpatient surgery centers, and other facilities. Major companies include Ascension Health, HCA, Kaiser Permanente, and Tenet Healthcare (all based in the US), as well as Fresenius (Germany), National Hospital Organization (Japan), and Ramsay Health Care (Australia). Worldwide, health care expenditures total about $6.9 trillion annually, or about 10 percent of global GDP, according to the World Health Organization. Total health spending (both public and private) as a portion of GDP ranges from about 6 percent in countries such as Estonia to more than 17 percent in the US, according to the Organisation for Economic Co-Operation and Development. The US health care sector includes more than 830,000 hospitals, doctors' offices, emergency care units, nursing homes, and social services providers with combined annual revenue of about $2.2 trillion.","ussicCodes":{
+"ussic":["4119","5995","7299","8011","8021","8041","8042","8043","8049","8051","8052","8062","8063","8069","8071","8082","8092","8093","8099","8322","8331","8361"]},
+"naicsCodes":{
+"naics":["446130","621111","621112","621210","621310","621320","621330","621340","621391","621399","621410","621420","621491","621492","621493","621498","621511","621512","621610","621910","621991","621999","622110","622210","622310","623110","623210","623220","623311","623312","623990","624110","624120","624190","624210","624221","624229","624230","624310","624410"]},
+"uksicCodes":{
+"uksic":[]},
+"relatedIndustries":{
+"relatedIndustry":[{
+"dnbIndustryCode":1376,"industryName":"Medical Equipment & Supply Wholesalers"
+},
+{
+        "dnbIndustryCode":1378,"industryName":"Medical Equipment & Supplies Manufacturing"
+},
+{
+    "dnbIndustryCode":1380,"industryName":"Hospitals"
+},
+{
+    "dnbIndustryCode":1382,"industryName":"Nursing Homes & Long-Term Care Facilities"
+},
+{
+    "dnbIndustryCode":1383,"industryName":"Home Health Care Services"
+},
+{
+    "dnbIndustryCode":1385,"industryName":"Health Insurance Carriers"
+},
+{
+    "dnbIndustryCode":1486,"industryName":"Pharmaceutical Manufacturing"
+},
+{
+    "dnbIndustryCode":1493,"industryName":"Drug Wholesalers "
+},
+{
+    "dnbIndustryCode":1494,"industryName":"Biotechnology Product Manufacturing"
+},
+{
+    "dnbIndustryCode":1497,"industryName":"Biotechnology Research Services"
+},
+{
+    "dnbIndustryCode":1532,"industryName":"Drug Stores"
+},
+{
+    "dnbIndustryCode":1805,"industryName":"Ambulance Services"
+},
+{
+    "dnbIndustryCode":1807,"industryName":"Anesthesiologists"
+},
+{
+    "dnbIndustryCode":1831,"industryName":"Cardiologists"
+},
+{
+    "dnbIndustryCode":1834,"industryName":"Chiropractors"
+},
+{
+    "dnbIndustryCode":1851,"industryName":"Dentists"
+},
+{
+    "dnbIndustryCode":1852,"industryName":"Dermatologists"
+},
+{
+    "dnbIndustryCode":1882,"industryName":"General Surgeons"
+},
+{
+    "dnbIndustryCode":1889,"industryName":"Health Fund-raising Organizations"
+},
+{
+    "dnbIndustryCode":1906,"industryName":"Kidney Dialysis Centers"
+},
+{
+    "dnbIndustryCode":1917,"industryName":"Mental Health & Substance Abuse Services"
+},
+{
+    "dnbIndustryCode":1918,"industryName":"Mental Health Professionals"
+},
+{
+    "dnbIndustryCode":1936,"industryName":"OBGYNs"
+},
+{
+    "dnbIndustryCode":1939,"industryName":"Oncologists"
+},
+{
+    "dnbIndustryCode":1940,"industryName":"Outpatient Surgical Centers"
+},
+{
+    "dnbIndustryCode":1944,"industryName":"Pediatricians"
+},
+{
+    "dnbIndustryCode":1949,"industryName":"Physicians"
+},
+{
+    "dnbIndustryCode":1952,"industryName":"Podiatrists"
+},
+{
+    "dnbIndustryCode":1965,"industryName":"Rehabilitation Therapy Services"
+},
+{
+    "dnbIndustryCode":2052,"industryName":"Medical & Diagnostic Laboratories"}]},
+"chapters":{
+"chapter":[{
+"name":"Business Challenges","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"Critical Issues","paragraphs":{
+"paragraph":[{
+"title":"Health Care Reform ","contents":"The Affordable Care Act of 2010 (ACA) is changing how medical care is acquired and paid for in the US. The landmark law, which makes health coverage available to all Americans, predominantly concerns ways to keep health care costs low and affects how care is paid for. Several provisions of the law kicked in during 2014, including health insurance exchanges and expansion of Medicaid and the State Children's Health Insurance Program. In an effort to cut Medicare costs, the ACA requires hospitals to decrease their hospital readmission rates, a key factor in high hospital bills. Hospitals that don't succeed in cutting rates are being penalized. Other provisions of the law call for more medical training and the establishment of health care technologies, such as electronic health records (EHRs), that are expected to cut costs through efficiency. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Shortage of Physicians and Nurses","contents":"Nearly 40 percent of doctors are 55 years old or older, and approaching retirement age, according to a study by the Center for Workforce Studies of the Association of American Colleges. About 33 percent of nurses are 50 and older, and more than half have said they plan to retire in the next 10 years, according to a nursing study by the Bernard Hodes Group. Experts predict a shortages of about 260,000 nurses and 130,000 doctors by 2025. Other analyses, however, say that shortages are regional rather than countrywide, and may be met with incentives for providers to practice in rural and other underserved areas. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}
+},
+{
+    "name":"Other Business Challenges","paragraphs":{
+"paragraph":[{
+"title":"Containing Rising Costs","contents":"Prescription drug prices, an aging population which requires more care, and the increasing cost of medical technology have contributed to the rising cost of managed care in recent years. The new health care reform law is aimed at helping control costs. Proposals to manage costs include the adoption of electronic health records, more focus on quality and efficiency, emphasis on less-expensive preventive care over more expensive services, and government regulation to keep insurance premiums and Medicare payments low.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Sustainable Growth Rate and Medicare","contents":"Medicare mandates successive fee cuts for physicians using a formula called the Sustainable Growth Rate (SGR). Congress has stopped the cuts with short-term fixes, but physicians say that Medicare does not reimburse doctors adequately for their services. Some physicians limit the number of Medicare patients they see, and others have opted out of the program entirely. Medicare’s fee schedule also keeps payments from private insurers low.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"Medical Errors ","contents":"The incidence of medical errors resulting in patient death is an issue of critical importance to the health care industry. A 2013 study published by the Journal of Patient Safety estimates that medical errors cause between 210,000 and 440,000 deaths each year. To encourage hospitals to improve care quality, Medicare has taken measures such as declaring that it will not reimburse for eight preventable medical errors, such as catheter-associated urinary tract infections. In 2012, Medicare put into place penalties for hospitals that had high readmission rates. Hospitals are looking at ways to reduce patient deaths, including procedural checklists and safety training.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"Malpractice Insurance","contents":"Malpractice insurance premiums rose sharply in recent years, sometimes such that doctors practice defensive medicine by ordering more tests or performing more C-sections. Many doctors support tort reform, which would reduce or limit jury awards for damages. Several states impose caps on awards, which state officials say help them retain and recruit physicians.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"Costs versus Benefits","contents":"The US spends about 18 percent of its GDP on health care, more than any other nation, yet the health of Americans, on average, is no better than in many countries that spend less. A WHO ranking of life expectancy lists the US as 37th in the world; among developed nations, the US has one of the highest infant mortality rates, at about 6 per 1,000 live births. Adult and childhood obesity rates are among the highest in the world.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"New Disclosure Rules","contents":"Under the federal Sunshine Act, manufacturers of covered drugs, medical devices, biological products, and medical supplies will have to report to Medicare any payments to physicians and teaching hospitals, such as investment interests, ownership, or other transfers of value. The law took effect in 2014, requiring manufacturers to compile the information annually. The Sunshine Act is designed to make transactions between manufacturers and physicians transparent to patients and others.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null}]}}]}
+},
+{
+    "name":"Call Preparation Questions","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"Call Preparation Questions - Conversation Starters","paragraphs":{
+"paragraph":[{
+"title":"How will health care reform affect the company? ","contents":"The Affordable Care Act of 2010 (ACA) is changing how medical care is acquired and paid for in the US.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"What measures is the company taking to hire and retain physicians? ","contents":"Nearly 40 percent of doctors are 55 years old or older, and approaching retirement age, according to a study by the Center for Workforce Studies of the Association of American Colleges.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"How is the company attempting to contain rising health care costs? ","contents":"Prescription drug prices, an aging population which requires more care, and the increasing cost of medical technology have contributed to the rising cost of managed care in recent years.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"What is the company doing to computerize patient health care records? ","contents":"The federal government has put financial incentives in place to encourage the adoption of HIT as a way to ultimately improve medical care and lower costs.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"How does the aging US population impact business operations? ","contents":"The aging US population both strains and presents opportunities for the American health care system over the next decade.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"What opportunities does the company see in personalized medicine?","contents":"Personalized, also known as genome-based, medicine uses genotyping and gene expression to identify a patient's potential risk for diseases such as cancer, diabetes, heart disease, and kidney failure.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Quarterly Industry Update","paragraphs":{
+"paragraph":[{
+"title":"What relationships does the company have with other health care providers?","contents":"Mergers and acquisitions in the health care industry are expected to rise as US hospitals, physician groups, and health IT companies adapt to federal Affordable Care Act (ACA) regulations.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Operations, Products, and Facilities","paragraphs":{
+"paragraph":[{
+"title":"What types of services does the organization provide?","contents":"Major services include hospital medical care (40 percent of industry revenue) and outpatient care provided by physicians (20 percent). Other services include dental work, urgent care, elderly and hospice care, and social assistance.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Is the organization for-profit or not-for-profit?","contents":"Of the 6,500 US hospitals, around 75 percent are not-for-profit institutions. Most doctor offices, nursing homes, outpatient and urgent care centers, and day care facilities are run as for-profit enterprises. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"How many facilities and locations does the organization operate?","contents":"Most doctors now operate in groups, many hospitals are affiliated with other hospitals and clinics, and many nursing homes belong to chains.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"What impact does the US government have on the organization's operations?","contents":"Medicare and Medicaid have a significant effect on a health care provider's operations; health care reform will also impact providers significantly.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"How has the organization altered its operational processes to protect the privacy of patient information?","contents":"The Health Insurance Portability and Accountability Act of 1996 (HIPAA) requires organizations to ensure that patient information is protected. ","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"How do uninsured customers impact the organization's revenues?","contents":"More than 15 percent of the US population is uninsured. ","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Customers, Marketing, Pricing, Competition","paragraphs":{
+"paragraph":[{
+"title":"Who are the organization's customers?","contents":"Typical customers are individuals requiring urgent medical care, routine check-ups, and long- or short-term assistance ranging from nursing home care, day care, and social services.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"How does the organization market its services?","contents":"Doctors typically use traditional approaches such as Yellow Pages' ads, word-of-mouth, and referrals. Hospitals market themselves through medical presentations, brochures, magazine and newspaper ads, targeted press releases, informational websites, and TV ads.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"How active is the organization's Internet presence?","contents":"A growing number of physicians have websites and even personal blogs, although doctors must avoid violating patient rights and privacy laws when writing about specific cases or incidences.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"What are the organization's typical prices?","contents":"For hospitals, the average revenue per admission is around $12,000. The average daily cost for a hospital stay runs between $2,000 and $4,000. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"How does the organization respond to Medicare's pricing policies?","contents":"Medicare sets limits on reimbursable charges. Some doctors opt out of Medicare completely and will not see Medicare patients.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"What sorts of contractual arrangements does the organization have?","contents":"Doctors, hospitals, and insurers generally have multiyear contracts with each other. Managed care plans, because of the large number of patients they represent, often have the upper hand in negotiating contracts with health care providers.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"How large a geographical market area does the organization serve?","contents":"Most health care providers treat patients within a 100-mile radius, although well-regarded hospitals and physicians may care for patients from around the world.","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null
+},
+{
+    "title":"Has the population in this market area been growing or shrinking?","contents":"Over the last decade, population flow has been out of the Northeast and to the South and West.","siteUrl":"","imageUrl":"","orderNumber":8,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Regulations, R&D, Imports and Exports","paragraphs":{
+"paragraph":[{
+"title":"Has the company had difficulty complying with state and federal regulations?","contents":"Health care providers are subject to extensive state and federal regulations.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"How does the organization adhere to Medicare and Medicaid regulations?","contents":"Medicare and Medicaid regulations impact an organization's operating, accounting, and billing procedures.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"How strict are the organization's state insurance laws?","contents":"Some states mandate a specific level of staffing per patient, or require a \"certificate of need\" before a hospital can invest in capital improvements. Most states manage a network of state health regulators to inspect health care facilities to ensure safe working conditions and a low risk of infectious diseases.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"How important is federal funding to the organization's R&D programs?","contents":"Many health care advances are led by research hospitals that maintain a staff of PhDs specializing in research and discovery. Molecular biology, largely federally funded, has advanced understanding of the cellular processes involved in disease. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"Has the organization had major billing disputes with Medicare?","contents":"In recent years, Medicare has taken a more aggressive stance about denying billings. ","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Organization and Management","paragraphs":{
+"paragraph":[{
+"title":"How does the organization recruit qualified workers?","contents":"Nurses and technical personnel are often in short supply.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"How is the company combating the nursing shortage?","contents":"Many hospitals hold career fairs or work with local schools to recruit new nurses.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"What training and certification does the organization require of its employees?","contents":"Health care and social service employees require training and certification on government regulations, insurance matters, limiting workplace injuries and medical mishaps, reducing the risk of liability, and overcoming language and cultural barriers.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Financial Analysis","paragraphs":{
+"paragraph":[{
+"title":"How was the company affected by the economic downturn of the late 2000s?","contents":"Many hospitals lost money during the recession of the late 2000s as fewer people used health care when they lost insurance, and hospitals received fewer charitable donations.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"What kinds of capital investments has the organization made recently or has in the pipeline?","contents":"Many hospitals, clinics, and nursing homes must make large investments in new equipment and improved facilities.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"How does the company plan to fund growth?","contents":"Health care providers fund growth by reinvesting profits, charitable donations, gifts, and grants.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"Has the organization recently invested in new computer systems?","contents":"Computer systems have become crucial for all health care providers and insurers to track expenses and billings and improve patient care.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"How much does the organization rely on charitable donations and gifts?","contents":"Charitable donations and gifts help many hospitals stay afloat, allowing for IT and research investment and facility expansion. Charitable giving to hospitals exceeds $8 billion annually.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"On average, how long does it take the organization to collect from customers?","contents":"Receivables can be high, around 30 days for both hospitals and physicians. Payments from insurers may not be received for several months after a patient has been treated. ","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"How does the organization limit billing write-offs?","contents":"Insurers often deny or reduce reimbursement requests. Health care providers can lower the amount of write-offs from uncollected bills by working with federally- or state-run insurance programs to increase the number of patients covered.","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Business and Technology Strategies","paragraphs":{
+"paragraph":[{
+"title":"How will the company be impacted if government regulation increases?","contents":"Many physicians are concerned that health care reform will increase regulation of the practice of medicine.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"What investments in computer and communication technology will be necessary in the next decade for the company?","contents":"Wireless technology, for example, is expected to improve the quality of patient records and treatment.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"What is the company's main motivation for investing in new technology?","contents":"Hospitals and physicians often invest in new technology to improve efficiency and reduce medical error risks. ","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"What new technologies has the organization invested in?","contents":"Advances in computer technology have produced new diagnostic imaging systems like ultrasound, MRI, CAT, and PET that can detect abnormalities in their earliest stages.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"If a small organization, how can it compete against larger operations?","contents":"Small operations can compete successfully by serving a limited geographical area, offering specialized services, or building a local reputation for quality care.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"If a large organization, how can it expand operations?","contents":"Large companies have advantages in accessing the latest medical research, buying supplies, offering a wide range of services, and negotiating contracts with health insurers.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null}]}
+},
+{
+    "name":"Call Preparation Questions - Executive Insight","paragraphs":{
+"paragraph":[{
+"title":"CEO: How does health care reform affect the company?","contents":"The 2010 Affordable Care Act changes health care in fundamental ways. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"CEO: What recent innovations have offered new opportunities to the company?","contents":"Health care providers are turning to innovative programs, such as wellness programs, early diagnostics, lower-cost testing, and drug treatments.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"CFO: How has the company tried to control rising health care costs?","contents":"Third-party payers, such as corporate plans, private insurers, and government programs, are intensely pressured to contain health care costs.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"CFO: What benefits do PPNs offer the company?","contents":"Providers have little leverage in PPN arrangements, but get a higher volume of clients. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"CIO: What steps has the company taken to implement health care IT and EHR initiatives?","contents":"The federal government is offering financial incentives for the implementation of health care IT and EHR in the expectation that the systems will eventually lower costs and improve health care quality by helping to reduce medical errors. ","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"CIO: How does the company access diagnostic images?","contents":"Using high-speed networks, diagnostic images can be forwarded from the point of capture to diagnostic staff and stored in computer files.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"HR: How does the company manage its staffing levels in the face of shortages of physicians and nurses?","contents":"The recession of the late 2000s complicated efforts to retain and attract staff, as many hospitals had to cut employees and hours.","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null
+},
+{
+    "title":"HR: What kinds of background checks does the company run for new and existing employees?","contents":"Background checking includes academic records, boards and certifications, malpractice claims, and criminal records.","siteUrl":"","imageUrl":"","orderNumber":8,"bullets":null
+},
+{
+    "title":"Sales: What percentage of the company's revenues come from health care fundraising?","contents":"Most hospitals seek charitable contributions, especially from former patients who may have reason to be grateful. ","siteUrl":"","imageUrl":"","orderNumber":9,"bullets":null
+},
+{
+    "title":"Sales: What advertising campaigns is the company planning to launch this year?","contents":"Many medical service professionals disdain advertising as needlessly adding to overhead.","siteUrl":"","imageUrl":"","orderNumber":10,"bullets":null}]}}]}
+},
+{
+    "name":"Executive Insight","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"Chief Executive Officer - CEO","paragraphs":{
+"paragraph":[{
+"title":"Health Care Reform","contents":"The 2010 Affordable Care Act changes health care in fundamental ways, and hospitals, doctors, and other medical industry professionals are still discovering how it will affect their industry. To assure that the interests of the industry are represented in government decision-making, company executives participated in legislative hearings, industry panels, journalist interviews, and advertising. CEOs must continue to take part in the process of meeting new regulatory requirements as well as guiding their company toward profitability. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Supporting Health Care Innovations","contents":"US health care costs are about 18 percent of the GDP and continuing to grow. To contain costs while maintaining coverage, the industry is turning to innovative programs, such as wellness programs, early diagnostics, lower-cost testing, and drug treatment versus surgery. Insurance companies are stepping into telemedicine as ways to deliver health care at a lower cost. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}
+},
+{
+    "name":"Chief Financial Officer - CFO","paragraphs":{
+"paragraph":[{
+"title":"Controlling Costs","contents":"Third-party payers, such as corporate health care plans, private health insurers, and government programs like Medicare and Medicaid, pay for the vast majority of health care costs. Costs for health insurance and drugs have been rising faster than the rate of inflation for a number of years. All payers are under intense pressure to contain costs and are exploring mechanisms for passing more costs to the insured, in the form of higher monthly costs and higher co-pays.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Participating in Preferred Provider Networks (PPNs)","contents":"Insurance companies have created PPNs of physicians, clinics, hospitals, and pharmacies that have agreed to pre-negotiated rates. Insured consumers have the economic incentive of lower co-pays and fees for using the PPN. Providers have little leverage in the arrangement, but can have a higher volume of clients. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}
+},
+{
+    "name":"Chief Information Officer - CIO","paragraphs":{
+"paragraph":[{
+"title":"Implementing Health Care IT and EHR","contents":"Health care IT and electronic health records (EHR) permit the online capture of patient diagnostics and treatment. The systems can be used for electronic insurance claims, lab requisitions, lab results, and electronic patient billing. However, implementation can be slow, because integrating the vast quantities of health care information is a complex task. The federal government is offering financial incentives for the implementation of health care IT and EHR in the expectation that the systems will eventually lower costs and improve health care quality by helping to reduce medical errors. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Distributing Medical Images","contents":"Using high-speed networks, high-quality PET, MRI, CAT, and x-ray images can be forwarded from the point of capture to diagnostic staff and stored with other patient records. Diagnostics can be done immediately after the recording and the results forwarded to the requesting physician. As high-speed medical networks become more common, diagnostics can be performed at geographically remote locations and used for consultations.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}
+},
+{
+    "name":"Human Resources - HR","paragraphs":{
+"paragraph":[{
+"title":"Physician and Nursing Shortage","contents":"Critical shortages exist in various medical specialties. Nurses are in short supply everywhere and doctors are needed to serve rural areas. The recession of the late 2000s complicated efforts to retain and attract staff, as many hospitals had to cut employees and hours. Nursing shortages may also compromise patient safety and the quality of care. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Conducting Background Checks","contents":"Because of the high cost of medical and liability insurance, new health care recruits undergo extensive background checks. These background checks include academic records, boards and certifications, malpractice claims, and criminal records. Of particular concern is identifying personnel who misrepresent their backgrounds and those who abuse drugs. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}
+},
+{
+    "name":"VP Sales/Marketing - Sales","paragraphs":{
+"paragraph":[{
+"title":"Hospital Fundraising","contents":"About 75 percent of hospitals in the US are not-for-profit. Most hospitals seek charitable contributions, especially from former patients who may have reason to be grateful. HIPAA allows hospitals to use patient data in fundraising operations. The recession of the late 2000s put a damper on charitable giving, and hospitals suffered as a result. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Advertising to Promote Services","contents":"The American Medical Association (AMA) expressly banned advertising to promote medical services until 1975, when the FTC ruled the ban an unfair trade constraint. Many medical service professionals still disdain advertising as needlessly adding to overhead. Proponents argue that it enlightens the public and allows more informed medical choices. Advertising by insurance companies, hospitals, and drug companies is a multi-billion dollar expenditure. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null}]}}]}
+},
+{
+    "name":"Financial Information","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"COMPANY BENCHMARK INFORMATION","paragraphs":{
+"paragraph":[{
+"title":"NAICS: 62","contents":"<table width=\"100%\" border=\"0\" cellspacing=\"1\" cellpadding=\"3\"><tr><td class=\"tablerow\">Data Period </td><td colspan=\"4\" class=\"tablebody\">Last Update May 2014</td></tr><tr><td class=\"tablerow\">Table Data Format </td><td colspan=\"4\" class=\"tablebody\">Mean</td></tr><tr><td colspan=\"5\">&nbsp;</td></tr><tr><td align=center width=40% class=\"tablerow\">Company Size</td><td align=center width=15% class=\"tablebody\">All</td><td align=center width=15% class=\"tablebody\">Large</td><td align=center width=15% class=\"tablebody\">Medium</td><td align=center width=15% class=\"tablebody\">Small</td></tr><tr><td align=center width=40% class=\"tablerow\">Size by Revenue</td><td align=center width=15% class=\"tablebody\">&nbsp;</td><td align=center width=15% class=\"tablebody\">Over $50M</td><td align=center width=15% class=\"tablebody\">$5M - $50M</td><td align=center width=15% class=\"tablebody\">Under $5M</td></tr><tr><td align=right class=\"tablerow\">Company Count</td><td align=center class=\"tablebody\">512271</td><td align=center class=\"tablebody\">318</td><td align=center class=\"tablebody\">5848</td><td align=center class=\"tablebody\">506105</td></tr><tr><td colspan=\"5\">&nbsp;</td></tr><tr><td colspan=\"5\" class=\"tablehead\">Income Statement </td></tr><tr><td align=right class=\"tablerow\">Net Sales</td><td align=center class=\"tablebody\">100%</td><td align=center class=\"tablebody\">100%</td><td align=center class=\"tablebody\">100%</td><td align=center class=\"tablebody\">100%</td></tr><tr><td align=right class=\"tablerow\">Gross Margin</td><td align=center class=\"tablebody\">95.5%</td><td align=center class=\"tablebody\">92.7%</td><td align=center class=\"tablebody\">94.0%</td><td align=center class=\"tablebody\">96.4%</td></tr><tr><td align=right class=\"tablerow\">Officer Compensation</td><td align=center class=\"tablebody\">8.7%</td><td align=center class=\"tablebody\">2.6%</td><td align=center class=\"tablebody\">5.2%</td><td align=center class=\"tablebody\">10.8%</td></tr><tr><td align=right class=\"tablerow\">Advertising & Sales</td><td align=center class=\"tablebody\">0.7%</td><td align=center class=\"tablebody\">0.5%</td><td align=center class=\"tablebody\">0.6%</td><td align=center class=\"tablebody\">0.7%</td></tr><tr><td align=right class=\"tablerow\">Other Operating Expenses</td><td align=center class=\"tablebody\">82.5%</td><td align=center class=\"tablebody\">86.0%</td><td align=center class=\"tablebody\">85.0%</td><td align=center class=\"tablebody\">81.2%</td></tr><tr><td align=right class=\"tablerow\">Operating Expenses</td><td align=center class=\"tablebody\">91.9%</td><td align=center class=\"tablebody\">89.1%</td><td align=center class=\"tablebody\">90.7%</td><td align=center class=\"tablebody\">92.8%</td></tr><tr><td align=right class=\"tablerow\">Operating Income</td><td align=center class=\"tablebody\">3.6%</td><td align=center class=\"tablebody\">3.6%</td><td align=center class=\"tablebody\">3.3%</td><td align=center class=\"tablebody\">3.7%</td></tr><tr><td align=right class=\"tablerow\">Net Income</td><td align=center class=\"tablebody\">1.9%</td><td align=center class=\"tablebody\">1.7%</td><td align=center class=\"tablebody\">1.7%</td><td align=center class=\"tablebody\">1.9%</td></tr><tr><td colspan=5>&nbsp;</td></tr><tr><td colspan=5 class=\"tablehead\">Balance Sheet</td></tr><tr><td align=right class=\"tablerow\">Cash</td><td align=center class=\"tablebody\">15.8%</td><td align=center class=\"tablebody\">14.1%</td><td align=center class=\"tablebody\">15.4%</td><td align=center class=\"tablebody\">16.5%</td></tr><tr><td align=right class=\"tablerow\">Accounts Receivable</td><td align=center class=\"tablebody\">16.4%</td><td align=center class=\"tablebody\">17.9%</td><td align=center class=\"tablebody\">18.4%</td><td align=center class=\"tablebody\">15.2%</td></tr><tr><td align=right class=\"tablerow\">Inventory</td><td align=center class=\"tablebody\">1.7%</td><td align=center class=\"tablebody\">2.1%</td><td align=center class=\"tablebody\">1.8%</td><td align=center class=\"tablebody\">1.5%</td></tr><tr><td align=right class=\"tablerow\">Total Current Assets</td><td align=center class=\"tablebody\">44.0%</td><td align=center class=\"tablebody\">44.2%</td><td align=center class=\"tablebody\">45.5%</td><td align=center class=\"tablebody\">43.4%</td></tr><tr><td align=right class=\"tablerow\">Property, Plant & Equipment</td><td align=center class=\"tablebody\">27.6%</td><td align=center class=\"tablebody\">26.6%</td><td align=center class=\"tablebody\">28.0%</td><td align=center class=\"tablebody\">27.8%</td></tr><tr><td align=right class=\"tablerow\">Other Non-Current Assets</td><td align=center class=\"tablebody\">28.4%</td><td align=center class=\"tablebody\">29.2%</td><td align=center class=\"tablebody\">26.5%</td><td align=center class=\"tablebody\">28.8%</td></tr><tr><td align=right class=\"tablerow\">Total Assets</td><td align=center class=\"tablebody\">100.0%</td><td align=center class=\"tablebody\">100.0%</td><td align=center class=\"tablebody\">100.0%</td><td align=center class=\"tablebody\">100.0%</td></tr><tr><td align=right class=\"tablerow\">Accounts Payable</td><td align=center class=\"tablebody\">6.0%</td><td align=center class=\"tablebody\">6.7%</td><td align=center class=\"tablebody\">6.9%</td><td align=center class=\"tablebody\">5.5%</td></tr><tr><td align=right class=\"tablerow\">Total Current Liabilities</td><td align=center class=\"tablebody\">25.8%</td><td align=center class=\"tablebody\">23.5%</td><td align=center class=\"tablebody\">25.6%</td><td align=center class=\"tablebody\">26.6%</td></tr><tr><td align=right class=\"tablerow\">Total Long Term Liabilities</td><td align=center class=\"tablebody\">31.7%</td><td align=center class=\"tablebody\">30.3%</td><td align=center class=\"tablebody\">31.2%</td><td align=center class=\"tablebody\">32.3%</td></tr><tr><td align=right class=\"tablerow\">Net Worth</td><td align=center class=\"tablebody\">42.5%</td><td align=center class=\"tablebody\">46.2%</td><td align=center class=\"tablebody\">43.1%</td><td align=center class=\"tablebody\">41.1%</td></tr><tr><td colspan=5>&nbsp;</td></tr><tr><td colspan=\"5\" class=\"tablehead\">Financial Ratios<br>(Click on any ratio for comprehensive definitions)</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#1\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Quick Ratio</a></td><td align=center class=\"tablebody\">1.33</td><td align=center class=\"tablebody\">1.45</td><td align=center class=\"tablebody\">1.38</td><td align=center class=\"tablebody\">1.28</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#2\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Current Ratio</a></td><td align=center class=\"tablebody\">1.70</td><td align=center class=\"tablebody\">1.88</td><td align=center class=\"tablebody\">1.77</td><td align=center class=\"tablebody\">1.63</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#3\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Current Liabilities to Net Worth</a></td><td align=center class=\"tablebody\">60.9%</td><td align=center class=\"tablebody\">51.0%</td><td align=center class=\"tablebody\">59.4%</td><td align=center class=\"tablebody\">64.7%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#4\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Current Liabilities to Inventory</a></td><td align=center class=\"tablebody\">x15.29</td><td align=center class=\"tablebody\">x11.32</td><td align=center class=\"tablebody\">x13.93</td><td align=center class=\"tablebody\">x17.51</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#5\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Total Debt to Net Worth</a></td><td align=center class=\"tablebody\">x1.36</td><td align=center class=\"tablebody\">x1.17</td><td align=center class=\"tablebody\">x1.32</td><td align=center class=\"tablebody\">x1.43</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#6\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Fixed Assets to Net Worth</a></td><td align=center class=\"tablebody\">x0.65</td><td align=center class=\"tablebody\">x0.58</td><td align=center class=\"tablebody\">x0.65</td><td align=center class=\"tablebody\">x0.68</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#7\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Days Accounts Receivable</a></td><td align=center class=\"tablebody\">23</td><td align=center class=\"tablebody\">36</td><td align=center class=\"tablebody\">30</td><td align=center class=\"tablebody\">19</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#8\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Inventory Turnover</a></td><td align=center class=\"tablebody\">x6.88</td><td align=center class=\"tablebody\">x6.54</td><td align=center class=\"tablebody\">x7.33</td><td align=center class=\"tablebody\">x6.83</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#9\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Total Assets to Sales</a></td><td align=center class=\"tablebody\">39.4%</td><td align=center class=\"tablebody\">55.7%</td><td align=center class=\"tablebody\">45.6%</td><td align=center class=\"tablebody\">34.7%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#10\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Working Capital to Sales</a></td><td align=center class=\"tablebody\">7.2%</td><td align=center class=\"tablebody\">11.5%</td><td align=center class=\"tablebody\">9.0%</td><td align=center class=\"tablebody\">5.8%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#11\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Accounts Payable to Sales</a></td><td align=center class=\"tablebody\">2.3%</td><td align=center class=\"tablebody\">3.6%</td><td align=center class=\"tablebody\">3.1%</td><td align=center class=\"tablebody\">1.9%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#12\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Pre-Tax Return on Sales</a></td><td align=center class=\"tablebody\">3.0%</td><td align=center class=\"tablebody\">2.7%</td><td align=center class=\"tablebody\">2.7%</td><td align=center class=\"tablebody\">3.1%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#13\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Pre-Tax Return on Assets</a></td><td align=center class=\"tablebody\">7.6%</td><td align=center class=\"tablebody\">4.9%</td><td align=center class=\"tablebody\">5.9%</td><td align=center class=\"tablebody\">9.0%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#14\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Pre-Tax Return on Net Worth</a></td><td align=center class=\"tablebody\">18.0%</td><td align=center class=\"tablebody\">10.7%</td><td align=center class=\"tablebody\">13.7%</td><td align=center class=\"tablebody\">21.9%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#15\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Interest Coverage</a></td><td align=center class=\"tablebody\">x4.86</td><td align=center class=\"tablebody\">x3.31</td><td align=center class=\"tablebody\">x4.07</td><td align=center class=\"tablebody\">x5.62</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#16\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">EBITDA to Sales</a></td><td align=center class=\"tablebody\">5.8%</td><td align=center class=\"tablebody\">6.4%</td><td align=center class=\"tablebody\">5.5%</td><td align=center class=\"tablebody\">5.7%</td></tr><tr><td align=right class=\"tablerow\"><a href=\"glossary.aspx#17\" class=\"tableRowLink\" title=\"Click to Define\" target=\"_blank\">Capital Expenditures to Sales</a></td><td align=center class=\"tablebody\">2.6%</td><td align=center class=\"tablebody\">3.8%</td><td align=center class=\"tablebody\">2.8%</td><td align=center class=\"tablebody\">2.3%</td></tr><tr><td colspan=\"5\">&nbsp;</td></tr><tr><td colspan=\"5\" class=\"tag\" bgcolor=\"#f0f0ee\">Financial industry data provided by MicroBilt Corporation collected from 32 different data sources and represents financial performance of over 4.5 million privately held businesses and detailed industry financial benchmarks of companies in over 900 industries (SIC and NAICS). More data available by subscription or single report purchase at <a href=\"http://www.microbilt.com/firstresearch\" title=\"http://www.microbilt.com/firstresearch\" target=\"_blank\">www.microbilt.com/firstresearch</a>.</td></tr></table>\n","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null}]}
+},
+{
+    "name":"ECONOMIC STATISTICS AND INFORMATION","paragraphs":{
+"paragraph":[{
+"title":"Annual Construction Put into Place - Census Bureau","contents":"<table><tr><td><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-constr.jpg\"></td></tr></table>","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Change in Consumer Prices\n - Bureau of Labor Statistics\n","contents":"<table><tr><td><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-cpibls.jpg\"></td></tr></table>","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"Revenue by Service - US Census Bureau","contents":"<table><tr><td><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-proseg.jpg\"></td></tr></table>","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null}]}
+},
+{
+    "name":"VALUATION MULTIPLES","paragraphs":{
+"paragraph":[{
+"title":"","contents":"<table width=\"500\" cellpadding=\"10\" cellspacing=\"0\" border=\"0\" bgcolor=\"#f0f0ee\"><tr><td><strong>Health Care Sector</strong></td></tr><tr class=\"tabletext\"><td></td></tr><tr><td align=\"center\"><table width=\"500\"  border=\"0\" cellspacing=\"1\" cellpadding=\"3\"><tr><td width=\"140\" class=\"tablerow\">Valuation Multiple</td><td width=\"90\" class=\"tablehead\">MVIC/Net Sales</td><td width=\"90\" class=\"tablehead\">MVIC/Gross Profit</td><td width=\"90\" class=\"tablehead\">MVIC/EBIT</td><td width=\"90\" class=\"tablehead\">MVIC/EBITDA</td></tr><tr><td class=\"tablerow\">Median Value</td><td class=\"tablebody\"> N/A </td><td class=\"tablebody\">N/A</td><td class=\"tablebody\"> N/A </td><td class=\"tablebody\"> N/A </td></tr></table></td></tr><tr><td><strong>MVIC (Market Value of Invested Capital)</strong> = Also known as the selling price, the MVIC is the total consideration paid to the seller and includes any cash, notes and/or securities that were used as a form of payment plus any interest-bearing liabilities assumed by the buyer.<br><strong>Net Sales</strong> = Annual Gross Sales, net of returns and discounts allowed, if any.<br><strong>Gross Profit</strong> = Net Sales - Cost of Goods Sold<br><strong>EBIT</strong> = Operating Profit<br><strong>EBITDA</strong> = Operating Profit + Noncash Charges<br></td></tr><tr><td class=\"tag\"><img src=\"http://www.firstresearch.com/images/bvr.png\" /><br /><br />SOURCE: Pratt's Stats, 2014 (Portland, OR: Business Valuation Resources, LLC). Used with permission.  Pratt's Stats is available at <a href=\"http://www.bvresources.com/prattsstats\" target=\"source\" class=\"tag\">http://www.bvresources.com/prattsstats</a></tr></table>\n","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null}]}
+},
+{
+    "name":"TRADE ASSOCIATION BENCHMARKING STATISTICS","paragraphs":{
+"paragraph":[]}
+},
+{
+    "name":"COMPANY BENCHMARK TRENDS","paragraphs":{
+"paragraph":[{
+"title":"","contents":"<table width=\"500\"cellspacing=\"0\" border=\"0\" bgcolor=\"#f0f0ee\"><tr><td><p><br /><strong>Quick Ratio by Company Size</strong><br /><br />The quick ratio, also known as the acid test ratio, measures a company's ability to meet short-term obligations with liquid assets. The higher the ratio, the better; a number below 1 signals financial distress. Use the quick ratio to determine if companies in an industry are typically able to pay off their current liabilities.</p></td></tr><tr class=\"tabletext\"><td>&nbsp;</td></tr><tr><td align=\"center\"><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-cbiqr.jpg\"></td></tr><tr><td>&nbsp;</td></tr><tr><td><p><span class=\"tag\">Financial industry data provided by MicroBilt Corporation collected from 32 different data sources and represents financial performance of over 4.5 million privately held businesses and detailed industry financial benchmarks of companies in over 900 industries (SIC and NAICS). More data available by subscription or single report purchase at <a href=\"http://www.microbilt.com/firstresearch\" title=\"http://www.microbilt.com/firstresearch\" target=\"_blank\">www.microbilt.com/firstresearch</a>.</span></p></td></tr></table>\n","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"<table width=\"500\"cellspacing=\"0\" border=\"0\" bgcolor=\"#f0f0ee\"><tr><td><p><br /><strong>Working Capital Turnover by Company Size</strong><br /><br />The working capital turnover ratio, also known as working capital to sales, is a measure of how efficiently a company uses its capital to generate sales. A high ratio is generally better, but a ratio that is too high suggests that the company lacks sufficient working capital. A low ratio can indicate that a company has too much capital tied up in accounts receivable and inventory, relative to sales. Companies should be compared to others in their industry.</p></td></tr><tr class=\"tabletext\"><td>&nbsp;</td></tr><tr><td align=\"center\"><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-wct.jpg\"></td></tr><tr><td>&nbsp;</td></tr><tr><td><p><span class=\"tag\">Financial industry data provided by MicroBilt Corporation collected from 32 different data sources and represents financial performance of over 4.5 million privately held businesses and detailed industry financial benchmarks of companies in over 900 industries (SIC and NAICS). More data available by subscription or single report purchase at <a href=\"http://www.microbilt.com/firstresearch\" title=\"http://www.microbilt.com/firstresearch\" target=\"_blank\">www.microbilt.com/firstresearch</a>.</span></p></td></tr></table>\n","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"","contents":"<table width=\"500\"cellspacing=\"0\" border=\"0\" bgcolor=\"#f0f0ee\"><tr><td><p><br /><strong>Current Liabilities to Net Worth by Company Size</strong><br /><br />The ratio of current liabilities to net worth, also called current liabilities to equity, indicates the amount due creditors within a year as a percentage of stockholders' equity in a company. A high ratio (above 80 percent) can indicate trouble. </p></td></tr><tr class=\"tabletext\"><td>&nbsp;</td></tr><tr><td align=\"center\"><img src=\"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-cltnw.jpg\"></td></tr><tr><td>&nbsp;</td></tr><tr><td><p><span class=\"tag\">Financial industry data provided by MicroBilt Corporation collected from 32 different data sources and represents financial performance of over 4.5 million privately held businesses and detailed industry financial benchmarks of companies in over 900 industries (SIC and NAICS). More data available by subscription or single report purchase at <a href=\"http://www.microbilt.com/firstresearch\" title=\"http://www.microbilt.com/firstresearch\" target=\"_blank\">www.microbilt.com/firstresearch</a>.</span></p></td></tr></table>\n","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null}]}}]}
+},
+{
+    "name":"Glossary of Acronyms","paragraphs":{
+"paragraph":[{
+"title":"ACA","contents":"Affordable Care Act of 2010","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"AHRQ","contents":"Agency for Healthcare Research and Quality","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"AMA","contents":"American Medical Association","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"CMS ","contents":"Centers for Medicare and Medicaid Services ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"DHHS ","contents":"Department of Health and Human Services ","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"EHR","contents":"electronic health records","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"HIPAA ","contents":"Health Insurance Portability and Accountability Act ","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"HIT","contents":"health information technology","siteUrl":"","imageUrl":"","orderNumber":8,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"HMO ","contents":"health maintenance organization","siteUrl":"","imageUrl":"","orderNumber":9,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"MCO","contents":"managed care organization","siteUrl":"","imageUrl":"","orderNumber":10,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"NIH ","contents":"National Institutes of Health","siteUrl":"","imageUrl":"","orderNumber":11,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"PhRMA ","contents":"Pharmaceutical Research and Manufacturers of America","siteUrl":"","imageUrl":"","orderNumber":12,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"PPN / PPO ","contents":"Preferred provider network / organization","siteUrl":"","imageUrl":"","orderNumber":13,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"S-CHIP","contents":"State Children's Health Insurance Programs ","siteUrl":"","imageUrl":"","orderNumber":14,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"WHO ","contents":"World Health Organization","siteUrl":"","imageUrl":"","orderNumber":15,"bullets":{
+"bullet":[]}}]},
+"subChapters":{
+"chapter":[]}
+},
+{
+    "name":"Industry Forecast","paragraphs":{
+"paragraph":[{
+"title":"","contents":"The US output for healthcare, a sector that includes physicians, dentists, hospitals, home healthcare, nursing homes, and daycare services, is forecast to grow at an annual compounded rate of 5 percent between 2014 and 2018. Data Published: February 2014","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"","contents":"First Research forecasts are based on INFORUM forecasts that are licensed from the Interindustry Economic Research Fund, Inc. (IERF) in College Park, MD. INFORUM's \"interindustry-macro\" approach to modeling the economy captures the links between industries and the aggregate economy.","siteUrl":"","imageUrl":"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-indfor.jpg","orderNumber":2,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"First Research Industry Growth Rating","contents":"Reflects snapshot of industry performance vs. industry risk over the next 12 to 24 months relative to other U.S. industries, along with short descriptions of vital demand and risk factors influencing the industry. Use to quickly determine the overall projected health of an industry.","siteUrl":"","imageUrl":"http://access.firstresearch.com/images/Medium.gif","orderNumber":3,"bullets":{
+"bullet":["Demand: Driven by medical advances and demographics","Need efficient use of labor and equipment","Risk: Healthcare reforms and limited coverage from insurers"]}}]},
+"subChapters":{
+"chapter":[]}
+},
+{
+    "name":"Industry Indicators","paragraphs":{
+"paragraph":[{
+"title":"","contents":"US consumer prices for medical care commodities, an indicator of healthcare costs, increased 2.8 percent in June 2014 compared to the same period in 2013.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"","contents":"US consumer prices for medical care services, an indicator of profitability for healthcare services, rose 2.6 percent in June 2014 compared to the same month in 2013.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"","contents":"Total US revenue for healthcare and social assistance rose 2.9 percent in the first quarter of 2014 compared to the previous year.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":{
+"bullet":[]}}]},
+"subChapters":{
+"chapter":[]}
+},
+{
+    "name":"Industry Overview","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Companies in this industry provide a wide range of health care and social services through hospitals, doctors' offices, nursing homes, outpatient surgery centers, and other facilities. Major companies include Ascension Health, HCA, Kaiser Permanente, and Tenet Healthcare (all based in the US), as well as Fresenius (Germany), National Hospital Organization (Japan), and Ramsay Health Care (Australia).","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"","contents":"Worldwide, health care expenditures total about $6.9 trillion annually, or about 10 percent of global GDP, according to the World Health Organization. Total health spending (both public and private) as a portion of GDP ranges from about 6 percent in countries such as Estonia to more than 17 percent in the US, according to the Organisation for Economic Co-Operation and Development.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"","contents":"The US health care sector includes more than 830,000 hospitals, doctors' offices, emergency care units, nursing homes, and social services providers with combined annual revenue of about $2.2 trillion.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":{
+"bullet":[]}}]},
+"subChapters":{
+"chapter":[{
+"name":"Industry Overview - Competitive Landscape","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Demand for health care services is driven by demographics and advances in medical care and technology. The profitability of individual companies depends on efficient operations and, in the case of many nonprofit health care providers, obtaining grants and federal funds. Large companies have advantages in accessing the latest medical research, buying supplies, offering a wide range of services, and negotiating contracts with health insurers. Small institutions can compete successfully by serving a limited geographical area, offering specialized services, or building a local reputation for quality care. The US health care sector is highly fragmented: the top 50 organizations generate about 15 percent of revenue.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null}]}
+},
+{
+    "name":"Industry Overview - Products, Operations & Technology","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Major services include hospital medical care (45 percent of industry revenue) and outpatient care provided by physicians (20 percent). Other services include dental work, urgent care, elderly and hospice care, and social assistance. \nLeading health care entities in the US include a number of for-profit entities, an exception to the global norm of nationalized medicine. However, of the 6,500 US hospitals, around 75 percent are not-for-profit. Most doctor offices, nursing homes, outpatient and urgent care centers, and day care facilities are run as for-profit enterprises. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"Federal and state governments are heavily involved in the US health care sector, as a direct-care provider (the Department of Veterans Affairs); an operator of health insurance programs (Medicare for the elderly, Medicaid for the low-income and disabled), and as providers of various social services programs.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"","contents":"About 85 percent of Americans are covered by some form of private or government health insurance; about 15 percent are uninsured. Many are covered by combinations of private and government policies. About 55 percent of Americans are covered by employer-sponsored health insurance, the most common type. Around 15 percent are covered by Medicaid, and another 15 percent by Medicare. The 2010 Affordable Care Act was intended to eventually provide health care coverage for all Americans. The combination of employer-sponsored plans, individual insurance, subsidized insurance, and the uninsured spins a complex web of payers (private insurance companies and the government) and health care providers, known in the industry as a multi-payer system. ","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"","contents":"Individuals and businesses fund Medicare through payroll taxes. Businesses pay all or a portion of the premiums for employee-sponsored health care. Some companies and organizations are switching to self-funded insurance plans, where claims are paid for directly by the business, in order to reduce expenses. Beyond contributing to premiums, individuals also pay additional direct or out-of-pocket expenses to providers for health care services. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"","contents":"The government uses money generated from taxes to reimburse providers who care for patients enrolled in Medicare, Medicaid, VA hospitals, and State Children's Health Insurance Programs (S-CHIP). Tax dollars also support health insurance premiums for federal employees.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"","contents":"Private insurers accept premiums from individuals, business, and the government. In turn, insurers reimburse providers for taking care of insured patients. Health care providers care for individuals and are reimbursed by private insurers and the government. ","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"","contents":"In total, government expenditures account for around 30 percent of total health care costs and private expenditures 65 percent. US health care spending is almost 18 percent of GDP, highest among industrialized nations. ","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null
+},
+{
+    "title":"","contents":"Technology","siteUrl":"","imageUrl":"","orderNumber":8,"bullets":null
+},
+{
+    "title":"","contents":"The US is a leader in health care technology, scientific advances, and medical research. Many of these advances are led by research hospitals that maintain a staff of PhDs specializing in research and discovery. Molecular biology, largely federally funded, has advanced understanding of the cellular processes involved in disease, largely by identifying defective proteins and gene mutations. New drug treatments, often developed in partnership with pharmaceutical firms, counter the effects of these abnormalities. Advances in computer technology have produced new diagnostic imaging systems like ultrasound, MRI, CAT, and PET that can detect abnormalities in their earliest stages, often preventing the onset of diseases like cancer and organ failure. The R&D that drives these discoveries is costly. ","siteUrl":"","imageUrl":"","orderNumber":9,"bullets":null
+},
+{
+    "title":"","contents":"In response to health care reform mandates aimed at improving efficiencies, health care providers are implementing health information technology (HIT) systems. Electronic health records (EHRs) are used to share information and coordinate patient care among doctors at multiple facilities. By the end of 2013, 78% of office-based physicians had adopted EHRs. Some physician practices are adopting personal health record (PHR) systems, where consumers can contact health professionals and access certain parts of their EHR, as a method of reducing repetitive in-person patient encounters. Other HIT systems include medical coding, billing, and prescription management software.","siteUrl":"","imageUrl":"","orderNumber":10,"bullets":null}]}
+},
+{
+    "name":"Industry Overview - Sales & Marketing","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Typical customers are individuals requiring urgent medical care, routine check-ups, and long- or short-term help ranging from nursing home care, day care, and social services. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"Marketing efforts vary depending on the type of service provided. Doctors typically stick with traditional approaches like word-of-mouth and referrals. A growing number of physicians have websites and even personal blogs -- though doctors must avoid violating patient's rights and privacy laws when writing about specific cases or incidences. Hospitals market to doctors, insurers, and individuals using a variety of means, including medical presentations, brochures, magazine and newspaper ads, targeted press releases, informational websites, and TV ads. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"","contents":"Prices vary depending on the services offered, the length of the patient stay, the patient's insurance policy, and the level of government support. For hospitals, the mean length of stay is about five days; the mean cost of a stay is about $10,000. Medicare (and, in many cases, supplemental state insurance policies) sets limits on reimbursable charges. In a typical scenario, a doctor visit costs around $90-$100, but Medicare may pay less than half that. The patient pays the rest through Medigap insurance or out of pocket. To offset these losses, doctors often limit the number of Medicare patients they accept, shorten patient time, or raise prices on private payers through what's known as \"cost shifting.\"","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null}]}
+},
+{
+    "name":"Industry Overview - Finance & Regulation","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Hospital operating margins average between 2 and 6 percent. Some hospitals have high levels of uninsured patients, and about 25 percent of hospitals have a negative operating margin. As competitive and regulatory pressures rise, hospitals are looking to reduce wasteful processes. Hospitals, as well as ambulatory care providers, are consolidating to gain scale and are outsourcing noncore functions such as revenue cycle and environmental services.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"Accounts receivable in the sector can be high, as payments from insurers may not arrive for months after a patient has been treated. For all providers in the sector, disputes with insurers are common, as insurers often deny or reduce reimbursement requests. Health care providers can lower the amount of write-offs from uncollected bills by working with government-run insurance programs to increase the number of patients covered. Overall, the health care sector is labor-intensive: average annual revenue per employee in the US is about $115,000.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"","contents":"Health care providers are subject to extensive state and federal regulations. Almost all health care providers participate in Medicare or Medicaid programs, run by the Centers for Medicare & Medicaid Services (CMS). Medicare and Medicaid participants must abide by a large number of regulations concerning their operating, accounting, and billing procedures. Medicare has a major influence on the payments hospitals receive, as many other payers use Medicare payment schedules as their benchmark. ","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"","contents":"Recent federal legislation has tried to address the rapid growth in national health care costs, especially the health care reform law of 2010 (the Affordable Care Act, or ACA), which substantially expands health care coverage to previously uninsured Americans. Other important laws affecting the health care system include the Balanced Budget Act of 1997 (BBA); the Medicare Balanced Budget Refinement Act of 1999; the Medicare, Medicaid, and State Children's Health Insurance Program (S-CHIP) Benefits Improvement and Protection Act of 2000; the False Claims Act; the Criminal Health Care Fraud statute; the False Statement statute; the Social Security Act; and the Health Insurance Portability and Accountability Act of 1996 (HIPAA). ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"","contents":"State health and finance regulations can vary widely. MCOs and HMOs fall under state insurance laws. Some states mandate a specific level of staffing per patient, or require a \"certificate of need\" before a hospital can invest in capital improvements. Most states manage a network of state health regulators to inspect health care facilities to ensure safe working conditions and a low risk of infectious diseases.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null}]}
+},
+{
+    "name":"Industry Overview - Regional & International Issues","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Worldwide, health care expenditures total about $6.9 trillion annually, or about 10 percent of global GDP, according to the World Health Organization (WHO). Total health spending (both public and private) as a portion of GDP among industrialized nations ranges from about 6 percent in countries such as Estonia to nearly 18 percent in the US, according to the Organisation for Economic Co-Operation and Development (OECD). Leading global health care firms include Fresenius (Germany), HCA (US), National Hospital Organization (Japan), and Ramsay Health Care (Australia).","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"Countries around the globe face pressure to reconfigure their health care systems in order to rein in costs and deliver care more efficiently. In Europe, the aging population is putting a strain on health care delivery. As citizens get older, they are more prone to expensive chronic illnesses such as diabetes and heart disease. Health spending in industrialized countries rose on average by about 5 percent between 2000 and 2009 but dropped to around 0.5 percent growth in 2010 and 2011 due to the economic crisis, according to the OECD. Lower government spending levels particularly impacted countries in Europe. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"","contents":"Developing countries are vulnerable to public health woes such as high infant and maternal mortality, undernourishment of children, and high rates of HIV/AIDS. OECD countries' average health spending of 12.3 percent of GDP compares to 6.2 percent in African nations and 3.6 percent in Southeast Asia, according to the WHO. Poor public health has an impact on a country’s wealth; for example, AIDS strikes adults who would normally be in the workforce. For these countries, the goal of reducing or alleviating these and other public health issues is complicated by lack of money and resources such as doctors, clinics, and medicines. The World Health Organization uses health infrastructure statistics such as the number of health care providers and facilities per capita as a way to measure the effectiveness of health care delivery.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"","contents":"Doctors around the world are making use of electronic health records (EHR), which can help a physician track a patient's health, check for potential harmful drug interactions, and provide medical decision support. The use of EHR among US physicians is much lower than in many European and other nations: nearly all doctors in the Netherlands, Norway, Sweden, and Denmark rely on EHR, as do most doctors in the UK, Australia, and New Zealand.","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"","contents":"In the US, health care costs and availability vary from state to state. The number of doctors per 100,000 people averages about 270 for the US, ranging from a high of 475 in Massachusetts to a low of 170 in Idaho. Consumer spending on health care is highest in the Midwest and lowest in the South.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"","contents":"The Midwest also has the highest number of hospital beds per capita, between 2.3 and 5.0 per 1,000 people. The western states have the fewest, between 1.7 and 3.7 beds per 1,000. In the Mid-Atlantic, the District of Columbia has nearly 6 beds per 1,000 population, but surrounding states have far fewer (Maryland and Virginia have just about 2 beds per 1,000). ","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"","contents":"California, the District of Columbia, Hawaii, and Massachusetts residents have some of the highest participation rates in HMOs. Some states - often less populated states like North Dakota, Wyoming, and Alaska - have HMO participation rates less than 3 percent.","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null
+},
+{
+    "title":"","contents":"States with high Hispanic populations (California and Texas) often require doctors and staff to speak basic Spanish. Signs, disclosures, and forms are often printed in both English and Spanish. ","siteUrl":"","imageUrl":"","orderNumber":8,"bullets":null}]}
+},
+{
+    "name":"Human Resources","paragraphs":{
+"paragraph":[{
+"title":"","contents":"Wages in the health care sector vary widely by job function and training requirements, from nurses and aides and orderlies at one end to surgeons and other medical specialists at the other. Overall, average wages for the sector are slightly higher than the US average. Employee turnover rates are moderately lower than the US average.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"","contents":"Injury rates in the health care sector are about 40 percent higher than the national average. Common injuries include back strains and sprains from moving patients or from falls.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"Industry Employment Growth - Bureau of Labor Statistics","contents":"","siteUrl":"","imageUrl":"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-empgrw.jpg","orderNumber":3,"bullets":null
+},
+{
+    "title":"Average Hourly Earnings & Annual Wage Increase - Bureau of Labor Statistics","contents":"","siteUrl":"","imageUrl":"http://www.firstresearch.com/Customers/reports/includes01/HECA/HECA-ernwge.jpg","orderNumber":4,"bullets":null}]}}]}
+},
+{
+    "name":"Industry Websites","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"Recent News","paragraphs":{
+"paragraph":[]}
+},
+{
+    "name":"Industry Sites","paragraphs":{
+"paragraph":[{
+"title":"Agency for Healthcare Research and Quality ","contents":"News and announcements on the health care industry, research, funding opportunities, quality assessments, and clinical consumer health data. ","siteUrl":"http://www.ahrq.gov","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"America's Health Insurance Plans (AHIP)","contents":"Policy issues, political news. ","siteUrl":"http://www.ahip.org/","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"American Association of Healthcare Administrative Management (AAHAM)","contents":"Patient accounts, billing admission, registration. ","siteUrl":"http://www.aaham.org","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"American Health Information Management Association","contents":"Professional organization specializing in health information management education for health care professionals. Hot topics, career information, certification, products, events, and specialty group links. ","siteUrl":"http://www.ahima.org","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"American Hospital Association","contents":"National organization formed in 1906 that represents and serves hospitals, health care networks and patients. Provides advocacy, campaigns for coverage, compliance assistance, press releases, health forums, and research and education. ","siteUrl":"http://www.aha.org","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"American Medical Association (AMA)","contents":"Industry news, links and information about many physician specialties. ","siteUrl":"http://www.ama-assn.org","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"Canadian Health Care Association","contents":"Issues, news, reports, advocacy, events, education resources.","siteUrl":"http://www.cha.ca/","imageUrl":"","orderNumber":7,"bullets":null
+},
+{
+    "title":"Centers for Medicare & Medicaid Services","contents":"Federal government agency that oversees government health insurance for 74 million Americans through Medicare and Medicaid. Statistics, data, local information, laws, and links. Formerly called the Health Care Financing Administration. ","siteUrl":"http://www.cms.hhs.gov/","imageUrl":"","orderNumber":8,"bullets":null
+},
+{
+    "title":"Consumer Healthcare Products Association ","contents":"Industry news, issues, and statistics. ","siteUrl":"http://www.chpa-info.org","imageUrl":"","orderNumber":9,"bullets":null
+},
+{
+    "title":"Institute of Medicine","contents":"Studies about the quality of medical care in the US.","siteUrl":"http://www.iom.edu/","imageUrl":"","orderNumber":10,"bullets":null
+},
+{
+    "title":"Managed Healthcare Executive","contents":"Magazine for managed health care industry.","siteUrl":"http://www.managedhealthcareexecutive.com","imageUrl":"","orderNumber":11,"bullets":null
+},
+{
+    "title":"Modern Healthcare","contents":"Weekly business news.","siteUrl":"http://www.modernhealthcare.com/","imageUrl":"","orderNumber":12,"bullets":null
+},
+{
+    "title":"National Center for Health Statistics (NCHS)","contents":"Surveys and data collection systems, health initiatives, research and development, publications and information products, news releases, and FEDSTATS.","siteUrl":"http://www.cdc.gov/nchs/","imageUrl":"","orderNumber":13,"bullets":null
+},
+{
+    "title":"Pharmaceutical Research and Manufacturers of America","contents":"Publications, policy views, and press releases. ","siteUrl":"http://www.phrma.org ","imageUrl":"","orderNumber":14,"bullets":null
+},
+{
+    "title":"Royal College of Physicians and Surgeons of Canada","contents":"News, events, training, and links.","siteUrl":"http://rcpsc.medical.org/","imageUrl":"","orderNumber":15,"bullets":null
+},
+{
+    "title":"The Journal of AMA ","contents":"Information and links for 95 different physician specialties. ","siteUrl":"http://jama.ama-assn.org/","imageUrl":"","orderNumber":16,"bullets":null
+},
+{
+    "title":"US Department of Health & Human Services","contents":"News on public affairs, research, policies, administrative tools, search engines. ","siteUrl":"http://www.hhs.gov/","imageUrl":"","orderNumber":17,"bullets":null
+},
+{
+    "title":"World Health Organization","contents":"International health comparisons.","siteUrl":"http://www.who.int","imageUrl":"","orderNumber":18,"bullets":null}]}}]}
+},
+{
+    "name":"Quarterly Industry Update","paragraphs":{
+"paragraph":[{
+"title":"Trend: Health Care Sector Sees Higher M&A Activity ","contents":"Mergers and acquisitions in the health care industry are expected to rise as US hospitals, physician groups, and health IT companies adapt to federal Affordable Care Act (ACA) regulations. About 86 percent of health care and life science professionals expect M&As to increase during 2014 and 2015, according to a survey report from legal firm Bass, Berry & Sims. Economies of scale, capital needs, efficiency, data sharing, and shifting reimbursement schemes and patient loads are expected to spur consolidation among health providers. Overall health and life science mergers declined about 16 percent in 2013 due to uncertainty over ACA implementation, according to survey contributor Mergermarkets. M&A activity among hospitals has risen over the past decade, with about 10 percent of US community hospitals undergoing consolidation between 2007 and 2012, according to the American Hospital Association.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":{
+"bullet":[]}
+},
+{
+    "title":"Industry Impact","contents":"Further industry consolidation is likely as health care providers seek to comply with ACA requirements to improve efficiency, IT systems, and quality of care.","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":{
+"bullet":[]}}]},
+"subChapters":{
+"chapter":[]}
+},
+{
+    "name":"Trends and Opportunities","paragraphs":{
+"paragraph":[]},
+"subChapters":{
+"chapter":[{
+"name":"Business Trends","paragraphs":{
+"paragraph":[{
+"title":"The Checklist","contents":"The use of checklists and other procedures to reduce hospital errors and patient deaths is gaining traction at hospitals. Hospitals that focus on safety procedures such as handwashing reminders and quality control incentives tend to see fewer infections. With outpatient surgery centers now a growing cause of infections, the issue is becoming more worrisome for health care providers and consumers. ","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Increasingly Informed Patients","contents":"Americans are more aware of their health status and appropriate diagnostic care. Many Americans use the Internet to access websites such as WebMD to research diseases and symptoms, and join online communities to discuss health issues and concerns. With insurance companies and Medicare limiting doctor office visits to as little as five minutes, many patients are now taking it upon themselves to increase their medical knowledge, unwilling to rely solely on the advice of hurried medical professionals. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"Employment Continues to Rise ","contents":"Despite a pending shortage of doctors and nurses in the coming decade, employment in the health care sector increased over 30 percent in a recent 10-year period, with 40 percent employment gains among physician offices, medical and diagnostic labs, and home health care. Employment in the sector is expected to increase about 26 percent by 2022 (from 2012).","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"Outsourcing Services ","contents":"To lower operating costs, hospitals and clinics are increasingly outsourcing services to third-party providers. Food service, housekeeping, laundry, IT, pharmacy, inpatient care management, and ER services can be outsourced to independent contractors, boosting margins and increasing efficiencies. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null}]}
+},
+{
+    "name":"Industry Opportunities","paragraphs":{
+"paragraph":[{
+"title":"Health Information Technology (HIT)","contents":"The federal government has put financial incentives in place to encourage the adoption of HIT as a way to ultimately improve medical care and lower costs. HIT integrates EHR, decision support systems, and computerized physician order entry for medications. Hospitals and physicians that invest in HIT may be able to improve scheduling, lower nurse administrative time, improve drug use, and lower the risk of adverse drug reactions. However, hospitals have found that development of HIT is complex and expensive and may outweigh eventual cost savings.","siteUrl":"","imageUrl":"","orderNumber":1,"bullets":null
+},
+{
+    "title":"Aging US Population ","contents":"The aging US population both strains and presents opportunities for the American health care system over the next decade. Health care spending per person for those over 65 is about three times as much as for the rest of the population. The US population 65 and older is expected to increase by 36 percent between 2015 and 2025. ","siteUrl":"","imageUrl":"","orderNumber":2,"bullets":null
+},
+{
+    "title":"Personalized Medicine","contents":"Personalized, also known as genome-based, medicine uses genotyping and gene expression to identify a patient's potential risk for diseases such as cancer, diabetes, heart disease, and kidney failure. Since the 2003 sequencing of the human genome, scientists and physicians are identifying possible treatments and strategies for complex and currently incurable conditions like Alzheimer's disease and cancer. Although personalized medicine isn't yet an established clinical practice, a number of top-tier medical institutions have personalized medicine programs, and many are actively conducting clinical studies in genomic medicine.","siteUrl":"","imageUrl":"","orderNumber":3,"bullets":null
+},
+{
+    "title":"Preventive Medicine","contents":"Medical advances show that many disorders can be prevented or delayed through early intervention, such as lowering cholesterol. Insurers and employers that provide health care benefits have a vested interest in promoting less-expensive preventive care to avoid expensive surgical procedures. This may benefit physicians who actively manage their patients' overall health. Hospitals are joining Accountable Care Organizations (ACOs) to improve care coordination and reduce unnecessary services; hospitals are also hiring professionals tasked with overseeing a patient's stay and providing preventive care counseling to reduce readmissions, length of stay, and errors. ","siteUrl":"","imageUrl":"","orderNumber":4,"bullets":null
+},
+{
+    "title":"Telemedicine","contents":"Doctors are accustomed to using videoconferencing and online technology to consult with other doctors; now they are using the same technology to treat patients. Telemedicine allows doctors to consult with and treat patients who live in rural areas. It also lets patients see specialists who may be unavailable in a local market. Insurance companies are rolling out telemedicine consultations to their networks as a way to increase access to care and control costs.","siteUrl":"","imageUrl":"","orderNumber":5,"bullets":null
+},
+{
+    "title":"Handheld Technology","contents":"Handheld devices such as GE’s Vscan portable ultrasound will let doctors and emergency responders to gather medical data in the field and transmit it to a hospital or emergency room. Other devices such as smartphones and health applications are making into inroads into the health care field as well. However, the FDA has determined that certain smartphone health apps (those that could put patients at risk if they don't work properly or that impact the functionality of traditional devices) are to be classified as medical devices requiring approval.","siteUrl":"","imageUrl":"","orderNumber":6,"bullets":null
+},
+{
+    "title":"Growth of Noninsurance Practices ","contents":"Some doctors are seeing fewer patients, but charging them more, with the bulk of the cost paid for by the patient rather than a third-party payer. So-called \"concierge\" practices may serve only 300 patients rather than the typical 1,000, but charge each an annual fee of $1,500 to $2,000 for regular checkups and advice. At the other end of the spectrum, doctors are offering similar services to patients who can’t afford health insurance and who may pay between $15 and $75 per month. Though the costs are low, doctors can recoup expenses because they avoid complex insurance billing systems.","siteUrl":"","imageUrl":"","orderNumber":7,"bullets":null}]}}]}}]},
+"whiteCollarWorkerRatios":{
+"whiteCollarWorkerRatio":[{
+"ussic":"4119","ratio":0.1704
+},
+{
+    "ussic":"5995","ratio":0.4048
+},
+{
+    "ussic":"7299","ratio":0.2667
+},
+{
+    "ussic":"8011","ratio":0.894
+},
+{
+    "ussic":"8021","ratio":0.8991
+},
+{
+    "ussic":"8041","ratio":0.873
+},
+{
+    "ussic":"8042","ratio":0.873
+},
+{
+    "ussic":"8043","ratio":0.873
+},
+{
+    "ussic":"8049","ratio":0.873
+},
+{
+    "ussic":"8051","ratio":0.7513
+},
+{
+    "ussic":"8052","ratio":0.7513
+},
+{
+    "ussic":"8062","ratio":0.8774
+},
+{
+    "ussic":"8063","ratio":0.8774
+},
+{
+    "ussic":"8069","ratio":0.8774
+},
+{
+    "ussic":"8071","ratio":0.8407
+},
+{
+    "ussic":"8082","ratio":0.7708
+},
+{
+    "ussic":"8092","ratio":0.8888
+},
+{
+    "ussic":"8093","ratio":0.8888
+},
+{
+    "ussic":"8099","ratio":0.8888
+},
+{
+    "ussic":"8322","ratio":0.6426
+},
+{
+    "ussic":"8331","ratio":0.5784
+},
+{
+    "ussic":"8361","ratio":0.7272}]}}

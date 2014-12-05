@@ -1,0 +1,281 @@
+html         { overflow-y:hidden; }
+
+/* --------------- font resetting ----------- */
+
+body,
+ul.navbar li,
+.full-bg-light,
+.side-column {
+    font: 300 14px/1.4 "Open Sans", Arial, sans-serif;
+}
+
+.page {
+    bottom:0;
+    position:absolute;
+    top:172px;
+    left: 0;
+    width:100%;
+    background: #FFF;;
+}
+
+/* -------------- header ---------------- */
+
+#header-btns {
+    margin-top: 20px;
+}
+
+.full-bg-dark {
+    background: #036;
+    width: 100%;
+    height: 49px;
+}
+
+ul.navbar {
+    margin: 5px 0 0 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+    list-style: none;
+}
+
+ul.navbar li {
+    width: 14.25%;
+    float: left;
+    display: inline;
+    line-height: 2.75;
+    text-align: center;
+    list-style: none;
+}
+    ul.navbar li.logo {
+        padding-left: 10px;
+        text-align: left;
+    }
+    ul.navbar li a {
+        padding: 20px 10px;
+        color: #FFF;
+        width: 100%;
+    }
+    ul.navbar li a:hover, ul.navbar li a:focus {
+        color: #333;
+        background: #EEE;
+        text-decoration: none;
+    }
+
+.full-bg-light {
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+    background: #EEE;
+    border-bottom: 1px solid #AAA;
+}
+
+ul.dropdown-menu li {
+    width: 100%;
+}
+
+/* ------------- colors --------------- */
+
+.recent {
+    background: #b15bd4;
+}
+    .recent-color {
+        color: #b15bd4;
+    }
+
+.finance {
+    background: #6CB274;
+}
+    .finance-color {
+        color:  #6CB274;
+    }
+.operations {
+    background: #E866A5;
+}
+    .operations-color {
+            color: #E866A5;
+    }
+.marketing {
+    background: #FAAA4C;
+}
+    .marketing-color {
+            color: #FAAA4C;
+    }
+
+.sales {
+    background: #3CB2E2;
+}
+    .sales-color {
+            color: #3CB2E2;
+    }
+/* -------------- app accordion list ---------------- */
+
+.side-column {
+    min-height: 680px;
+    background: #EEE;
+    padding-top: 15px;
+    border: 1px solid #AAA;
+    border-top: 0;
+    font-size: 13px;
+}
+
+    .side-column a span:hover {
+        text-decoration: none;
+    }
+
+    .side-column .panel {
+        background-color: transparent;
+    }
+    .side-column .panel-default>.panel-heading {
+        background-color: transparent;
+        border-color: transparent;
+    }
+    .side-column .panel-default {
+        border: 0;
+        border-bottom: 1px solid #AAA;
+        border-radius: 0;
+    }
+    .side-column .panel-default>.panel-heading+.panel-collapse .panel-body {
+        border-top-color: transparent;
+    }
+    .side-column .panel-body {
+        padding: 0 15px 15px 15px;
+    }
+        .side-column .panel-body ul {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+        }
+            .side-column .panel-body ul li {
+                margin: 0;
+                padding: 5px;
+                width: 100%;
+                list-style: none;
+            }
+                .side-column .panel-body ul li:hover {
+                    background: #FFF;
+                }
+                .side-column .panel-body ul li a:hover {
+                    text-decoration: none;
+                }
+
+.panel-title>a {
+    text-decoration: none;
+}
+ul.widget-list {
+    padding: 0;
+    height: 600px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+li.widget-list {
+    list-style: none;
+    margin: 5px 0;
+    padding: 5px 10px;
+    background: #FEFEFE;
+    border: 1px dotted #CCC;
+}
+
+li.widget-list:hover {
+    border: 1px solid #AAA;
+    background: #FFF;
+}
+
+
+li.widget-list a:hover {
+    text-decoration: none;
+}
+/* -------------- app detail row ------------------- */
+
+.tab-content>.active {
+    border: 1px solid #DDD;
+    border-top: 0;
+    padding: 15px;
+}
+
+.margtop20 {
+    margin-top: 20px;
+}
+
+.margtop10 {
+    margin-top: 10px;
+}
+
+.margtop0 {
+    margin-top: 0;
+}
+
+.show-box {
+    margin: 20px auto;
+    padding: 0;
+    width: 100%;
+    -webkit-transition: width 200ms ease-in;
+    -moz-transition: width 200ms ease-in;
+    -ms-transition: width 200ms ease-in;
+    -o-transition: width 200ms ease-in;
+    transition: width 200ms ease-in;
+}
+
+.desktop {
+    width: 100%;
+}
+
+.tablet {
+    width: 66%;
+}
+
+.smartphone {
+    width: 33%;
+}
+
+/* -------------- collapsing row & button ------------------- */
+
+.bordered-top {
+    border-top: 1px solid #AAA;
+}
+
+.btn.collapsing-top {
+    margin-top: -1px;
+    border-top-left-radius: 0;
+    border-top: 1px solid #FFF;
+    border-top-right-radius: 0;
+}
+
+/* --------------------  ANIMATIONS ============================================ */
+
+.page.ng-leave 	{ z-index:9999; }
+.page.ng-enter 	{ z-index:8888; }
+
+.page.ng-leave         {
+    -webkit-animation:slideOutLeft 0.5s both ease-in;
+    -moz-animation:slideOutLeft 0.5s both ease-in;
+    animation:slideOutLeft 0.5s both ease-in;
+}
+.page.ng-enter 		{
+    -webkit-animation:scaleUp 0.5s both ease-in;
+    -moz-animation:scaleUp 0.5s both ease-in;
+    animation:scaleUp 0.5s both ease-in;
+}
+
+/* scale up */
+@keyframes scaleUp {
+    from 		{ opacity: 0.3; transform: scale(0.8); }
+}
+@-moz-keyframes scaleUp {
+    from 		{ opacity: 0.3; -moz-transform: scale(0.8); }
+}
+@-webkit-keyframes scaleUp {
+    from 		{ opacity: 0.3; -webkit-transform: scale(0.8); }
+}
+
+/* slide in from the bottom */
+@keyframes slideOutLeft {
+    to 		{ transform: translateX(-100%); }
+}
+@-moz-keyframes slideOutLeft {
+    to 		{ -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes slideOutLeft {
+    to 		{ -webkit-transform: translateX(-100%); }
+}
+

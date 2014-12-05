@@ -1,0 +1,259 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?7prjm5');
+	src:url('fonts/icomoon.eot?#iefix7prjm5') format('embedded-opentype'),
+		url('fonts/icomoon.woff?7prjm5') format('woff'),
+		url('fonts/icomoon.ttf?7prjm5') format('truetype'),
+		url('fonts/icomoon.svg?7prjm5#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+	content: "\e600";
+}
+.icon-office:before {
+	content: "\e601";
+}
+.icon-newspaper:before {
+	content: "\e602";
+}
+.icon-pencil:before {
+	content: "\e603";
+}
+.icon-film:before {
+	content: "\e604";
+}
+.icon-bullhorn:before {
+	content: "\e605";
+}
+.icon-book:before {
+	content: "\e606";
+}
+.icon-books:before {
+	content: "\e607";
+}
+.icon-library:before {
+	content: "\e608";
+}
+.icon-file:before {
+	content: "\e609";
+}
+.icon-folder:before {
+	content: "\e60a";
+}
+.icon-folder-open:before {
+	content: "\e60b";
+}
+.icon-tag:before {
+	content: "\e60c";
+}
+.icon-tags:before {
+	content: "\e60d";
+}
+.icon-support:before {
+	content: "\e60e";
+}
+.icon-phone:before {
+	content: "\e60f";
+}
+.icon-pushpin:before {
+	content: "\e610";
+}
+.icon-location:before {
+	content: "\e611";
+}
+.icon-map:before {
+	content: "\e612";
+}
+.icon-screen:before {
+	content: "\e613";
+}
+.icon-mobile:before {
+	content: "\e614";
+}
+.icon-tablet:before {
+	content: "\e615";
+}
+.icon-drawer:before {
+	content: "\e616";
+}
+.icon-download:before {
+	content: "\e617";
+}
+.icon-upload:before {
+	content: "\e618";
+}
+.icon-disk:before {
+	content: "\e619";
+}
+.icon-undo:before {
+	content: "\e61a";
+}
+.icon-redo:before {
+	content: "\e61b";
+}
+.icon-bubble:before {
+	content: "\e61c";
+}
+.icon-bubbles:before {
+	content: "\e61d";
+}
+.icon-bubbles2:before {
+	content: "\e61e";
+}
+.icon-user:before {
+	content: "\e61f";
+}
+.icon-users:before {
+	content: "\e620";
+}
+.icon-spinner:before {
+	content: "\e621";
+}
+.icon-search:before {
+	content: "\e622";
+}
+.icon-key:before {
+	content: "\e623";
+}
+.icon-lock:before {
+	content: "\e624";
+}
+.icon-unlocked:before {
+	content: "\e625";
+}
+.icon-cog:before {
+	content: "\e626";
+}
+.icon-pie:before {
+	content: "\e627";
+}
+.icon-stats:before {
+	content: "\e628";
+}
+.icon-bars:before {
+	content: "\e629";
+}
+.icon-bars2:before {
+	content: "\e62a";
+}
+.icon-rocket:before {
+	content: "\e62b";
+}
+.icon-meter:before {
+	content: "\e62c";
+}
+.icon-remove:before {
+	content: "\e62d";
+}
+.icon-download2:before {
+	content: "\e62e";
+}
+.icon-upload2:before {
+	content: "\e62f";
+}
+.icon-flag:before {
+	content: "\e630";
+}
+.icon-attachment:before {
+	content: "\e631";
+}
+.icon-eye:before {
+	content: "\e632";
+}
+.icon-bookmark:before {
+	content: "\e633";
+}
+.icon-bookmarks:before {
+	content: "\e634";
+}
+.icon-smiley:before {
+	content: "\e635";
+}
+.icon-sad:before {
+	content: "\e636";
+}
+.icon-grin:before {
+	content: "\e637";
+}
+.icon-warning:before {
+	content: "\e638";
+}
+.icon-info:before {
+	content: "\e639";
+}
+.icon-cancel-circle:before {
+	content: "\e63a";
+}
+.icon-checkmark-circle:before {
+	content: "\e63b";
+}
+.icon-spam:before {
+	content: "\e63c";
+}
+.icon-minus:before {
+	content: "\e63d";
+}
+.icon-plus:before {
+	content: "\e63e";
+}
+.icon-checkbox-unchecked:before {
+	content: "\e63f";
+}
+.icon-checkbox-partial:before {
+	content: "\e640";
+}
+.icon-radio-checked:before {
+	content: "\e641";
+}
+.icon-radio-unchecked:before {
+	content: "\e642";
+}
+.icon-filter:before {
+	content: "\e643";
+}
+.icon-mail:before {
+	content: "\e644";
+}
+.icon-gauge:before {
+	content: "\e645";
+}
+.icon-checkmark:before {
+	content: "\e646";
+}
+.icon-cross:before {
+	content: "\e647";
+}
+.icon-plus2:before {
+	content: "\e648";
+}
+.icon-cross2:before {
+	content: "\e649";
+}
+.icon-arrow-left:before {
+	content: "\e64a";
+}
+.icon-arrow-down:before {
+	content: "\e64b";
+}
+.icon-arrow-up:before {
+	content: "\e64c";
+}
+.icon-arrow-right:before {
+	content: "\e64d";
+}

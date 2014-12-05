@@ -1,0 +1,54 @@
+<div class="container"  ng-controller="showcaseController">
+    <div class="row">
+        <div class="col-md-12 col-sm-12">
+            <br/>
+            <div class="alert alert-danger" role="alert">
+                You're seeing a limited example data set. To see more, log in with your API key. Don't have one? Give us a call!
+            </div>
+        </div>
+    </div>
+    <div class="row" collapse="isCollapsed">
+        <div class="col-md-9 col-sm-9">
+            <h3 class="margtop0">Showcases: tailor-made</h3>
+            <p>Here are a few examples of how the data can be combined into entire sets. And some more marketing kind of whatever text as well to explain what the user's seeing. Et cetera.</p>
+        </div>
+        <div class="col-md-3 col-sm-3 text-right">
+            <h4>Showcase Sets</h4>
+            <div ng-repeat="item in group">
+                <span ng-click="showDetail(item)">{{item.name}}</span>
+            </div>
+        </div>
+    </div>
+    <div class="row bordered-top">
+        <div class="col-md-1 margtop10">
+            <button id="smartphone" class="btn btn-info device" ng-click="showDisplay('smartphone')"><i class="entypo-mobile"></i></button>
+        </div>
+        <div class="col-md-1 margtop10">
+            <button id="tablet" class="btn btn-info device" ng-click="showDisplay('tablet')"><i class="entypo-doc"></i></button>
+        </div>
+        <div class="col-md-1 margtop10">
+            <button id="desktop"  class="btn btn-info device" ng-click="showDisplay('desktop')"><i class="entypo-monitor"></i></button>
+        </div>
+        <div class="col-md-6  text-center">
+            <button class="btn btn-default collapsing-top" ng-click="isCollapsed = !isCollapsed">
+                <span ng-show="isCollapsed">show details</span>
+                <span ng-show="!isCollapsed">hide details</span>
+            </button>
+        </div>
+        <div class="col-md-3 margtop10">
+            <div class="pull-right">
+                <button type="button" class="btn btn-primary pull-right"><i class="fa fa-download fa-fw"></i> Download Code</button>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12 page-inner">
+            <div class="show-box {{displaySelected}}">
+                <div ng-include src="'partials/call-prep.html'"></div>
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+</div>

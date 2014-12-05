@@ -1,0 +1,28 @@
+<h2>D&B Direct Call Prep: {{callPrep.industryName}}</h2>
+
+<accordion close-others="oneAtATime">
+    <accordion-group heading="Fast Facts" is-open="status.isFirstOpen" is-disabled="status.isFirstDisabled">
+        <ul>
+            <li ng-repeat="i in callPrep.fastFacts.fastFact">
+                {{i.fact}}
+            </li>
+        </ul>
+    </accordion-group>
+
+    <accordion-group heading="Key Business Challenges">
+        <div ng-repeat="i in callPrep.keyBusinessChallenges.challenge">
+            <h4>{{i.title}}</h4>
+            <p><strong>{{i.question}}</strong></p>
+            <p>{{i.description}}</p>
+        </div>
+    </accordion-group>
+
+    <accordion-group heading="Key Business Opportunities">
+        <div ng-repeat="i in callPrep.keyBusinessOpportunities.opportunity">
+            <h4>{{i.title}}</h4>
+            <p><strong>{{i.question}}</strong></p>
+            <p>{{i.description}}</p>
+        </div>
+    </accordion-group>
+
+</accordion>

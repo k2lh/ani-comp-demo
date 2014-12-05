@@ -1,0 +1,443 @@
+{
+          "0": {
+            "id" : 0,
+                "name": "Fast Facts",
+                "category": "Call Prep",
+                "tags": {"tag": "tag1", "tag": "tag3", "tag": "tag9"},
+                "type": "text",
+                "page": "call-prep",
+                "description": "First Research Call Prep questions are industry specific questions from D&B’s First Research Industry Profiles, which encompass over 900 industry segments. Embed this micro app into your CRM or sales portal to empower sales teams with engaging conversation starters to be used on prospects or clients."
+          },
+          "1": {
+            "id" : 1,
+                "name": "Key Business Challenges",
+                "category": "Call Prep",
+                "tags": {"tag": "tag1", "tag": "tag3", "tag": "tag9"},
+                "type": "text",
+                "page": "call-prep",
+                "description": "----- requires text -------"
+          },
+          "2": {
+            "id" : 2,
+                "name": "Key Business Opportunities",
+                "category": "Call Prep",
+                "tags": {"tag": "tag1", "tag": "tag3", "tag": "tag9"},
+                "type": "text",
+                "page": "call-prep",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "3": {
+            "id" : 3,
+                "name": "Employment History",
+                "category": "People",
+                "tags": {"tag": "tag2", "tag": "tag3"},
+                "type": "table",
+                "page": "employment-history",
+                "description": "The Employment History micro app provides previous titles, positions, and past employers for a selected person. When available, affiliations such as non-employer organizations with which a person has a business or social relationship are also displayed. Possible affiliations include serving on the board of a non-profit organization, educational organization, or additional company."
+          },
+          "4": {
+            "id" : 4,
+                "name": "Basic Financial Information",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag4", "tag": "tag5"},
+                "type": "list",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "5": {
+            "id" : 5,
+                "name": "Recent Market Analysis",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag1", "tag": "tag4", "tag": "tag5"},
+                "type": "list",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "6": {
+            "id" : 6,
+                "name": "Comparison to Industry & Market",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag4", "tag": "tag5"},
+                "type": "table",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "7": {
+            "id" : 7,
+                "name": "Annual Income Statements",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag6", "tag": "tag7"},
+                "type": "table",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "8": {
+            "id" : 8,
+                "name": "Quarterly Income Statements",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag6", "tag": "tag7"},
+                "type": "table",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "9": {
+            "id" : 9,
+                "name": "Top Competitors",
+                "category": "Financial Summary",
+                "tags": {"tag": "tag8", "tag": "tag7"},
+                "type": "table",
+                "page": "finance-info",
+                "description": "Compare industry and market performance metrics, including 52-week high/low, intuitional ownerships, ratios, and growth percentages. Monitor quarterly and annual income states with detailed financial performance figures such as sales, profit income, expense, and earnings per share (EPS). View complete lists of top competitors, selected by Hoover’s editors, with sales, profit, and net operating cash flow data for each competitor."
+          },
+          "10": {
+            "id" : 10,
+                "name": "Company Lead",
+                "category": "Company Insight",
+                "tags": {"tag": "tag1", "tag": "tag3"},
+                "type": "text",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "11": {
+            "id" : 11,
+                "name": "Company Overview",
+                "category": "Company Insight",
+                "tags": {"tag": "tag1", "tag": "tag3", "tag": "tag7"},
+                "type": "list",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "12": {
+            "id" : 12,
+                "name": "Company Summary",
+                "category": "Company Insight",
+                "tags": {"tag": "tag1", "tag": "tag2"},
+                "type": "text",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "13": {
+            "id" : 13,
+                "name": "Company News",
+                "category": "Company Insight",
+                "tags": {"tag": "tag7", "tag": "tag8", "tag": "tag9"},
+                "type": "list",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "14": {
+            "id" : 14,
+                "name": "Company Social Media",
+                "category": "Company Insight",
+                "tags": {"tag": "tag3", "tag": "tag8"},
+                "type": "links",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "15": {
+            "id" : 15,
+                "name": "Company People Search",
+                "category": "Company Insight",
+                "tags": {"tag": "tag5"},
+                "type": "table",
+                "page": "company-insight",
+                "description": "----- requires text -------"
+          },
+          "16": {
+            "id" : 16,
+                "name": "Top Competitors",
+                "category": "Company Insight",
+                "tags": {"tag": "tag8", "tag": "tag7"},
+                "type": "table",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "17": {
+            "id" : 17,
+                "name": "Key Financials",
+                "category": "Company Insight",
+                "tags": {"tag": "tag2", "tag": "tag3"},
+                "type": "table",
+                "page": "company-insight",
+                "description": "Enrich Social, Intranet, Customer Service, Social Marketing & Sales, and Open Government applications with in-depth company insight provided by D&B Direct."
+          },
+          "18": {
+            "id" : 18,
+                "name": "Family Tree",
+                "category": "Company Insight",
+                "tags": {"tag": "tag7", "tag": "tag8"},
+                "type": "tree",
+                "page": "company-insight",
+                "description": "----- requires text -------"
+          },
+          "19": {
+            "id" : 19,
+                "name": "Industries",
+                "category": "Company Insight",
+                "tags": {"tag": "tag4", "tag": "tag5"},
+                "type": "links",
+                "page": "company-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "20": {
+            "id" : 20,
+                "name": "Industry Description",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag4", "tag": "tag5"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "21": {
+            "id" : 21,
+                "name": "Related Industries",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag2", "tag": "tag5", "tag": "tag8"},
+                "type": "list",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "22": {
+            "id" : 22,
+                "name": "Industry Challenges",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag2", "tag": "tag5"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "23": {
+            "id" : 23,
+                "name": "Industry Call Prep Questions",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag1", "tag": "tag2"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "First Research Call Prep questions are industry specific questions from D&B’s First Research Industry Profiles, which encompass over 900 industry segments. Embed this micro app into your CRM or sales portal to empower sales teams with engaging conversation starters to be used on prospects or clients."
+          },
+          "24": {
+            "id" : 24,
+                "name": "Executive Insight",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag7", "tag": "tag8", "tag": "tag3"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "25": {
+            "id" : 25,
+                "name": "Industry Benchmark Information",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag4", "tag": "tag5"},
+                "type": "table",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "26": {
+            "id" : 26,
+                "name": "Industry Economic Statistics",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag1", "tag": "tag8"},
+                "type": "image",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "27": {
+            "id" : 27,
+                "name": "Industry Valuation Multiples",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag1", "tag": "tag3", "tag": "tag9"},
+                "type": "table",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "28": {
+            "id" : 28,
+                "name": "Trade Association Benchmarking Statistics",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag7", "tag": "tag8", "tag": "tag3"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "29": {
+            "id" : 29,
+                "name": "Industry Benchmark Trends",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag3", "tag": "tag4"},
+                "type": "image",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "30": {
+            "id" : 30,
+                "name": "Industry Economic Statistics",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag2", "tag": "tag7"},
+                "type": "image",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "31": {
+            "id" : 31,
+                "name": "Industry Acronyms",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag6", "tag": "tag7"},
+                "type": "list",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "32": {
+            "id" : 32,
+                "name": "Industry Forecast",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag3", "tag": "tag5"},
+                "type": "list",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "33": {
+            "id" : 33,
+                "name": "Industry Indicators",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag2"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "34": {
+            "id" : 34,
+                "name": "Industry Growth Rating",
+                "category": "Industry Insight",
+                "tags": {"tag": "tag6", "tag": "tag9"},
+                "type": "value",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "35": {
+            "id" : 35,
+                "name": "Industry Competitive Landscape",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag6", "tag": "tag9"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "Embed this micro app into your CRM or sales portal for highly focused, in depth industry intelligence from First Research. Outfit your sales team with the industry intelligence to converse with prospects or clients."
+          },
+          "36": {
+            "id" : 36,
+                "name": "Industry Products, Operations & Technology",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag6", "tag": "tag7"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "37": {
+            "id" : 37,
+                "name": "Industry Sales & Marketing",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag4", "tag": "tag9"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "38": {
+            "id" : 38,
+                "name": "Industry Finance & Regulation",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag3", "tag": "tag4"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "39": {
+            "id" : 39,
+                "name": "Industry Regional & International Issues",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag3", "tag": "tag4"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "40": {
+            "id" : 40,
+                "name": "Industry Human Resources",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag9"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "41": {
+            "id" : 41,
+                "name": "Industry Websites",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag2", "tag": "tag4"},
+                "type": "links",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "42": {
+            "id" : 42,
+                "name": "Industry Recent News",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag2", "tag": "tag3"},
+                "type": "table",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "43": {
+            "id" : 43,
+                "name": "Quarterly Industry Update",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag8", "tag": "tag9"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "44": {
+            "id" : 44,
+                "name": "Industry Trends",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag7", "tag": "tag9"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "45": {
+            "id" : 45,
+                "name": "Industry Opportunities",
+                "category": "Industry Overview",
+                "tags": {"tag": "tag3", "tag": "tag6"},
+                "type": "text",
+                "page": "industry-insight",
+                "description": "----- requires text -------"
+          },
+          "46": {
+            "id" : 46,
+                "name": "Company Brands",
+                "category": "Company Insight",
+                "tags": {"tag": "tag3", "tag": "tag4"},
+                "type": "table",
+                "page": "company-insight",
+                "description": "----- requires text -------"
+          },
+          "47": {
+            "id" : 47,
+                "name": "Commercial Credit Score",
+                "category": "Company Insight",
+                "tags": {"tag": "tag3", "tag": "tag4"},
+                "type": "value",
+                "page": "company-insight",
+                "description": "Predict payment delinquency with the Commercial Credit Score (CCS) micro app. Embed this micro app into your CRM to anticipate whether a business pays its bills in a severely delinquent fashion (90 days or more past due), obtains legal relief from creditors, or ceases operations without paying all creditors in full over the next 12 months. A severely delinquent business is defined as having at least 25% of its payments slow and at least 10% of its payments 90 days or more past due, based on the information in D&B’s commercial database. Scores range from 101 to 670, with 101 representing the highest probability of delinquency and 671 representing the lowest probability of delinquency."
+          },
+          "48": {
+            "id" : 48,
+                "name": "Data Stewardship",
+                "category": "Other",
+                "tags": {"tag": "tag2", "tag": "tag6"},
+                "type": "table",
+                "page": "company-insight",
+                "description": "Enhance data stewardship capabilities of your MDM solution with this microapp. Whether you use Optimizer or any other matching software, have your data stewards utilize this microapp that leverages D&B best-in-class business identification, linking and information enrichment capabilities to present a list of candidates for manual selection. "
+          }
+}

@@ -1,0 +1,97 @@
+<div class="container"  ng-controller="singlesController">
+    <div class="row">
+
+        <div class="col-md-3 col-sm-3 side-column">
+            <!--
+                <select name="q" class="form-control" placeholder="Select a tag"/>
+                    <option>filter by tag</option><option>Company Data</option><option>Industry Data</option><option>Person Data</option><option>Family Tree</option><option>First Research</option><option>Full Company Profile</option><option>News Information</option><option>Web Widgets</option>
+                </select>
+
+                <br />
+            -->
+            <div class="form-group">
+                <input class="form-control" type="text" id="query" ng-model="query" placeholder="Enter search term">
+            </div>
+
+            <ul class="widget-list">
+                <li ng-repeat="item in group" class="widget-list">
+                    <span ng-click="showDetail(item)">{{item.name}}</span>
+                </li>
+            </ul>
+
+        </div>
+
+        <div class="col-md-9 col-sm-9">
+            <div ng-show="itemSelected">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">
+                    <br/>
+                        <div class="alert alert-danger" role="alert">
+                            You're seeing a limited example data set. To see more, log in with your API key. Don't have one? Give us a call!
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-9 col-sm-9">
+                        <h3 class="margtop0">{{itemSelected.name}}</h3>
+                        <p>{{itemSelected.description}}</p>
+                    </div>
+                    <div class="col-md-3 col-sm-3 text-right">
+                        <h4>Tags</h4>
+                        <div ng-repeat="t in itemSelected.tags">
+                                {{t.tag}}
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-1 margtop20">
+                        <button id="smartphone" class="btn btn-info device" ng-click="showDisplay('smartphone')"><i class="entypo-mobile"></i></button>
+                    </div>
+                    <div class="col-md-1 margtop20">
+                        <button id="tablet" class="btn btn-info device" ng-click="showDisplay('tablet')"><i class="entypo-doc"></i></button>
+                    </div>
+                    <div class="col-md-1 margtop20">
+                        <button id="desktop"  class="btn btn-info device" ng-click="showDisplay('desktop')"><i class="entypo-monitor"></i></button>
+                    </div>
+                    <div class="col-md-9 margtop20">
+                        <div class="pull-right">
+                            <button type="button" class="btn btn-primary pull-right"><i class="fa fa-download fa-fw"></i> Download Code</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="show-box {{displaySelected}}">
+                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div ng-show="!itemSelected">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12">
+                    <br/>
+                        <div class="alert alert-danger" role="alert">
+                            You're seeing a limited example data set. To see more, log in with your API key. Don't have one? Give us a call!
+                        </div>
+                    </div>
+                </div>
+               <div class="row">
+                    <div class="col-md-9 col-sm-9">
+                        <h3 class="margtop0">APIs, A la carte style</h3>
+                        <p>Some introductory paragraph goes here, talking about how you can take just the pieces you want.</p>
+                    </div>
+                    <div class="col-md-3 col-sm-3 text-right">
+                        <h4>Tags</h4>
+                        <div>tag1</div>
+                        <div>tag2</div>
+                        <div>tag3</div>
+                        <div>tag4</div>
+                        <div>etc</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

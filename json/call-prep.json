@@ -1,0 +1,72 @@
+{
+    "dnbIndustryCode":1105,
+    "industryName":"Personal Computer Manufacturing",
+    "keyBusinessChallenges":
+    {
+        "challenge": [
+            {
+                "title":"Narrow Margins",
+                "description":"Because personal computers have become somewhat commoditized, pricing in the industry is extremely competitive. While improving manufacturing efficiencies and other cost-cutting measures can lower costs, computer makers may be forced to cut prices at the expense of profit margins as they pursue market share. Increases in unit shipments may not result in commensurate revenue growth, so many companies rely on ancillary services or other products for profitability. ",
+                "question":"How does the company differentiate its products from similarly priced items offered by competitors? ",
+                "orderNumber":1
+            },{
+                "title":"Rapid Product Development",
+                "description":"The highly competitive nature of the PC industry necessitates constant technological innovation. Major PC manufacturers devote hundreds of millions dollars annually to research and development efforts, often with little assurance that the resulting products will achieve market acceptance. Failure to keep pace with (or exceed) the performance of competitors during a given product cycle can result in lost business. At the same time companies must maintain effective product testing and quality control; companies may have warranty liability for product defects, and maintaining a reputation for reliability and performance is crucial. ",
+                "question":"What is the primary focus of the company's current research and development efforts? ",
+                "orderNumber":2
+            },{
+                "title":"Component Supplier Relations",
+                "description":"Producing new features and performance upgrades on a regular basis requires highly complex product life cycle management. Companies must coordinate with component suppliers and contract manufacturers to ensure that new products are produced and delivered on time. Estimating demand for new products is also crucial, as accumulation of excess components or finished products can result in price cuts or inventory write-downs.",
+                "question":"What is the company's greatest challenge in keeping up with product upgrades? ",
+                "orderNumber":3
+            }
+        ]
+    },
+    "keyBusinessOpportunities":
+    {
+        "opportunity":[
+            {
+                "title":"Touch Screens",
+                "description":"While touch screen technology has been in use for decades, its integration into personal computing devices has only recently become common. Apple's popular iPhone and iPad devices, both of which use touch screens, have helped fuel consumer demand for the technology. Rapid adoption of touch screens in the consumer PC market could present opportunities for PC manufacturers. About 10 percent of new laptops sold in the first quarter of 2013 included touchscreens, according to DisplayBank, a division of IHS. The number of touch-enabled laptops is likely to keep growing, with manufacturers like Asus and Lenovo aiming to double touchscreen penetration in the near future.",
+                "question":"What plans does the company have to integrate touch screen technology into its products? ",
+                "orderNumber":1
+            },{
+                "title":"International Sales",
+                "description":"Although shipments of traditional PCs are slowing worldwide, sales of tablets are seeing strong growth in emerging markets. Meanwhile, more than half of Apple's sales and some 65 percent of Hewlett-Packard's sales come from outside the US. Companies considering international expansion must weigh potential revenue growth against start-up costs and risks associated with foreign operations. Some companies may choose to partner with international distributors and resellers rather than set up their own international sales operations.",
+                "question":"How large of a role do international markets play in the company's growth strategy? ",
+                "orderNumber":2
+            },{
+                "title":"Smartphones, Tablets",
+                "description":"PC manufacturers can leverage their resources to lead in the development of next-generation computing devices. Though sales of smartphones and tablet computers may be cutting into traditional PC sales, PC vendors' existing technological expertise, supplier relationships, and sales channels give them an advantage over potential competitors in designing and marketing new products. Many PC manufacturers, most notably Apple and Samsung, are making significant headway in the smartphone and tablet market.",
+                "question":"What advantages does the company have in developing the next generation of computing and communication devices?",
+                "orderNumber":3
+            }
+        ]
+    },
+    "fastFacts":
+    {
+        "fastFact":[
+            {
+                "fact":"Companies in this industry produce desktop personal computers (PCs) and portable PCs such as laptops, notebooks, and tablets.",
+                "orderNumber":1
+            },{
+                "fact":" Major US companies include Apple, Dell, and Hewlett-Packard (HP); major companies based outside the US include Lenovo (Hong Kong) and Toshiba (Japan), as well as Taiwan's Hon Hai Precision (doing business as Foxconn) and Quanta Computer.",
+                "orderNumber":2
+            },{
+                "fact":"The majority of PCs fall into one of two basic design categories: traditional desktops and portable computers.",
+                "orderNumber":3
+            },{
+                "fact":"PC manufacturers sell to consumers, businesses, government agencies, and schools.",
+                "orderNumber":4
+            },{
+                "fact":"The PC market is extremely competitive, and manufacturers operate on slim margins; gross margins for a large company are typically 15 to 20 percent.",
+                "orderNumber":5
+            }
+        ]
+    },
+    "executiveTalkingPoints":
+    {
+        "talkingPoint":[
+        ]
+    }
+}

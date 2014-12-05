@@ -1,0 +1,16 @@
+<select name="q" class="form-control" placeholder="Select a tag"/>
+    <option>filter by tag</option><option>Company Data</option><option>Industry Data</option><option>Person Data</option><option>Family Tree</option><option>First Research</option><option>Full Company Profile</option><option>News Information</option><option>Web Widgets</option>
+</select>
+
+<br />
+
+<div class="form-group">
+    <input class="form-control" type="text" id="query" data-ng-model="query" placeholder="Enter search term">
+</div>
+
+<ul class="widget-list">
+    <li data-ng-repeat="item in group | filter: query" class="widget-list">
+        <a href="#" ng-click="showDetail(item)">{{item.name}}</a>
+    </li>
+</ul>
+
